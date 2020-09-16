@@ -1,0 +1,51 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Others
+########
+*__pycache__*
+data/italy*
+.ipynb_checkpoints
+thing.json
+credentials.json
+my-project-9707052c3408.json
+quickstart.py
+server.zip
+token.pickle
+data/world_viktor.json
+data/regioner.xlsx
+data/ekonomi*
+livenums*
