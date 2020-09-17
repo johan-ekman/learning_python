@@ -9,8 +9,10 @@ verify_ssl = true
 numpy = "*"
 pandas = "*"
 openpyxl = "*"
+jupyter-nbextensions-configurator = "*"
 jupyter = "*"
 notebook = "*"
+jupyter-contrib-nbextensions = "*"
 
 [requires]
 python_version = "3.8"
