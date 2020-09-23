@@ -37,15 +37,5 @@ Thumbs.db
 # Others
 ########
 *__pycache__*
-data/italy*
 .ipynb_checkpoints
-thing.json
-credentials.json
-my-project-9707052c3408.json
-quickstart.py
-server.zip
-token.pickle
-data/world_viktor.json
-data/regioner.xlsx
-data/ekonomi*
-livenums*
+Pipfile*
