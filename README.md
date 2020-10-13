@@ -63,7 +63,7 @@ But I also recommend that you create your own notebook to experiment with. It's 
 
 ![image](course_material/readme/create_nb.png)
 
-If you want to copy the course notebooks, and experiment directly in them. This is also possible! Just check the notebook you want to duplicate and press the "Duplicate" button up top:
+If you want to copy the course notebooks, and experiment directly in them (without risking deleting any course material), this is also possible! Just check the notebook you want to duplicate and press the "Duplicate" button up top:
 
 ![image](course_material/readme/duplicate.png)
 
