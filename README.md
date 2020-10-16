@@ -6,11 +6,13 @@ This is a python introduction course in a Jupyter notebook. It consists of 14 ch
 
 ### 1. Install Anaconda
 
-The best way to quickly get into the course is to download [the Anaconda software package](https://www.anaconda.com/products/individual#Downloads). By using Anaconda, you can be sure you get all Jupyter installations needed to run the course notebook. For Max OS, you get to choose between command line installation and the graphical installer. For beginners, the graphical installer is recommended! 
+The best way to quickly get into the course is to download [the Anaconda software package](https://www.anaconda.com/products/individual#Downloads). By using Anaconda, you can be sure you get all Jupyter installations needed to run the course notebook. For Max OS, you get to choose between command line installation and the graphical installer. For beginners, the graphical installer is recommended!
+
+If you run into problems installing Anaconda, [check this guide](https://docs.anaconda.com/anaconda/install/).
 
 When you've downloaded the Anaconda installer, open it and follow the installation instructions as recommended. The installation may take some time. Also, when installing, you will be asked if you want to install VSCode. It is a great code editor, but it is not required in this course. 
 
-**CAUTION:** If you have installed Anaconda already, be sure to cehck which version of Python that was included. This course won't work with any Python version below 3.6.  
+**CAUTION:** If you have installed Anaconda already, be sure to check which version of Python that was included. This course won't work with any Python version below 3.6.  
 
 ### 2. Open Anaconda Navigator
 
