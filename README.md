@@ -50,9 +50,11 @@ Place your course material here:
 
 ![image](course_material/readme/documents.png)
 
-### 6. Open the course (part 1) in a notebook
+### 6. Open the course in a notebook
 
-Find the course material in the Jupyter Notebook file tree navigator interface. All Jupyter Notebook files have the file extension `.ipynb`. The first part of the course is named `lessons_1-7.ipynb`, which includes a course introduction. Start with this file:
+Find the course material in the Jupyter Notebook file tree navigator interface. All Jupyter Notebook files have the file extension `.ipynb`. The course material is in two different folders – one folder for the basics and one continuation course. 
+
+You start with the notebooks in the folder "basics_course". This is for the absolute beginner. The first part is named `lessons_1-7.ipynb`, which includes a course introduction. Begin with this file!
 
 ![image](course_material/readme/course_start.png)
 
