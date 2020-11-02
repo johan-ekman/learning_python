@@ -52,17 +52,19 @@ Place your course material here:
 
 ### 6. Open the course in a notebook
 
-Find the course material in the Jupyter Notebook file tree navigator interface. All Jupyter Notebook files have the file extension `.ipynb`. The course material is in two different folders – one folder for the basics and one continuation course. 
+Find the course material in the Jupyter Notebook file tree navigator interface. All Jupyter Notebook files have the file extension `.ipynb`. The course notebooks is in two different folders – one folder for Python basics and one continuation course. 
 
-You start with the notebooks in the folder "basics_course". This is for the absolute beginner. The first part is named `chapter_1-7.ipynb`, which includes a course introduction. Begin with this file!
+You start with the notebooks in the folder "basics_course". This is for the absolute beginner. The first part is named `chapter_1-7.ipynb`, which includes a course introduction. Begin with this file! In the continuation course notebook, we learn about creating and managing files, writing our own text recognition software with regular expressions, and web scraping. There is also a project assignment where you get to extract information from 5,000 pdf files!
+
 
 ![image](course_material/readme/course_start.png)
 
-That's it! You can now begin the course. Good luck!
+That's it! You can now begin the course. Good luck! Oh, one more thing:
 
 ## Beginner? Read this as well
 
 As you can see in the image just above this section, all notebooks included in the course have a small book icon. There is the two parts of the actual course (the files `chapter_1-7.ipynb`and `chapter_8-15.ipynb`), and the notebook with the solutions to the course's exercises – `solutions.ipynb`. 
+
 But I also recommend that you create your own notebook to experiment with. It's easy! You just press the `New` button up on the right and then choose "Python 3" under "Notebook" in the dropdown:
 
 ![image](course_material/readme/create_nb.png)
