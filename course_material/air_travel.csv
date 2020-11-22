@@ -1,0 +1,2821 @@
+country_name,region_code,region_name,year,k_passengers
+Austria,AT12,Niederösterreich,2008,19687
+Austria,AT21,Kärnten,2008,430
+Austria,AT22,Steiermark,2008,982
+Austria,AT31,Oberösterreich,2008,757
+Austria,AT32,Salzburg,2008,1784
+Austria,AT33,Tirol,2008,953
+Belgium,BE21,Prov. (2) Antwerpen,2008,129
+Belgium,BE24,Prov. Vlaams-Brabant,2008,18369
+Belgium,BE25,Prov. West-Vlaanderen,2008,164
+Belgium,BE32,Prov. Hainaut,2008,2942
+Belgium,BE33,Prov. Liège,2008,395
+Bulgaria,BG33,Североизточен,2008,1430
+Bulgaria,BG34,Югоизточен,2008,1920
+Bulgaria,BG41,Югозападен,2008,3205
+,CH01,,2008,11322
+,CH02,,2008,92
+,CH04,,2008,22074
+,CH05,,2008,91
+,CH07,,2008,180
+Cyprus,CY00,Κύπρος,2008,7218
+Czechia,CZ01,Praha,2008,12587
+Czechia,CZ04,Severozápad,2008,76
+Czechia,CZ05,Severovýchod,2008,-
+Czechia,CZ06,Jihovýchod,2008,455
+Czechia,CZ08,Moravskoslezsko,2008,311
+Germany,DE11,Stuttgart,2008,9874
+Germany,DE12,Karlsruhe,2008,1199
+Germany,DE13,Freiburg,2008,0
+Germany,DE14,Tübingen,2008,618
+Germany,DE21,Oberbayern,2008,34400
+Germany,DE22,Niederbayern,2008,0
+Germany,DE24,Oberfranken,2008,20
+Germany,DE25,Mittelfranken,2008,4229
+Germany,DE27,Schwaben,2008,460
+Germany,DE30,Berlin,2008,14713
+Germany,DE40,Brandenburg,2008,6615
+Germany,DE50,Bremen,2008,2477
+Germany,DE60,Hamburg,2008,12782
+Germany,DE71,Darmstadt,2008,53189
+Germany,DE73,Kassel,2008,0
+Germany,DE80,Mecklenburg-Vorpommern,2008,160
+Germany,DE91,Braunschweig,2008,1
+Germany,DE92,Hannover,2008,5569
+Germany,DE94,Weser-Ems,2008,1
+Germany,DEA1,Düsseldorf,2008,19623
+Germany,DEA2,Köln,2008,10296
+Germany,DEA3,Münster,2008,1520
+Germany,DEA4,Detmold,2008,1116
+Germany,DEA5,Arnsberg,2008,2297
+Germany,DEB1,Koblenz,2008,3885
+Germany,DEB2,Trier,2008,0
+Germany,DEB3,Rheinhessen-Pfalz,2008,305
+Germany,DEC0,Saarland,2008,447
+Germany,DED2,Dresden,2008,1820
+Germany,DED5,Leipzig,2008,1980
+Germany,DEE0,Sachsen-Anhalt,2008,0
+Germany,DEF0,Schleswig-Holstein,2008,656
+Germany,DEG0,Thüringen,2008,298
+Germany,DEZZ,Extra-Regio NUTS 2,2008,15
+Denmark,DK01,Hovedstaden,2008,21694
+Denmark,DK02,Sjælland,2008,11
+Denmark,DK03,Syddanmark,2008,2665
+Denmark,DK04,Midtjylland,2008,772
+Denmark,DK05,Nordjylland,2008,1043
+Estonia,EE00,Eesti,2008,1804
+Greece,EL30,Αττική,2008,16453
+Greece,EL41,Βόρειο Αιγαίο,2008,1465
+Greece,EL42,Νότιο Αιγαίο,2008,6731
+Greece,EL43,Κρήτη,2008,7406
+Greece,EL51,"Ανατολική Μακεδονία, Θράκη",2008,641
+Greece,EL52,Κεντρική Μακεδονία,2008,4358
+Greece,EL53,Δυτική Μακεδονία,2008,9
+Greece,EL54,Ήπειρος,2008,131
+Greece,EL61,Θεσσαλία,2008,295
+Greece,EL62,Ιόνια Νησιά,2008,3373
+Greece,EL63,Δυτική Ελλάδα,2008,454
+Greece,EL64,Στερεά Ελλάδα,2008,13
+Greece,EL65,Πελοπόννησος,2008,81
+Spain,ES11,Galicia,2008,4311
+Spain,ES12,Principado de Asturias,2008,1524
+Spain,ES13,Cantabria,2008,857
+Spain,ES21,País Vasco,2008,4613
+Spain,ES22,Comunidad Foral de Navarra,2008,426
+Spain,ES24,Aragón,2008,596
+Spain,ES30,Comunidad de Madrid,2008,50366
+Spain,ES41,Castilla y León,2008,470
+Spain,ES51,Cataluña,2008,37117
+Spain,ES52,Comunidad Valenciana,2008,15323
+Spain,ES53,Illes Balears,2008,29343
+Spain,ES61,Andalucía,2008,20752
+Spain,ES62,Región de Murcia,2008,1879
+Spain,ES64,Ciudad Autónoma de Melilla,2008,305
+Spain,ES70,Canarias,2008,29808
+Finland,FI19,Länsi-Suomi,2008,1382
+Finland,FI1B,Helsinki-Uusimaa,2008,13435
+Finland,FI1C,Etelä-Suomi,2008,341
+Finland,FI1D,Pohjois- ja Itä-Suomi,2008,2359
+Finland,FI20,Åland,2008,62
+Finland,FIZZ,Extra-Regio NUTS 2,2008,0
+France,FR10,Île-de-France,2008,86683
+France,FRB0,Centre-Val de Loire,2008,94
+France,FRC1,Bourgogne,2008,14
+France,FRD1,Basse-Normandie,2008,197
+France,FRD2,Haute-Normandie,2008,74
+France,FRE1,Nord-Pas-de-Calais,2008,1012
+France,FRE2,Picardie,2008,2485
+France,FRF1,Alsace,2008,5581
+France,FRF2,Champagne-Ardenne,2008,3
+France,FRF3,Lorraine,2008,262
+France,FRG0,Pays-de-la-Loire,2008,2687
+France,FRH0,Bretagne,2008,1871
+France,FRI1,Aquitaine,2008,5665
+France,FRI2,Limousin,2008,400
+France,FRI3,Poitou-Charentes,2008,344
+France,FRJ1,Languedoc-Roussillon,2008,2458
+France,FRJ2,Midi-Pyrénées,2008,7137
+France,FRK1,Auvergne,2008,540
+France,FRK2,Rhône-Alpes,2008,8617
+France,FRL0,Provence-Alpes-Côte d’Azur,2008,17903
+France,FRM0,Corse,2008,2650
+France,FRY1,Guadeloupe,2008,2068
+France,FRY2,Martinique,2008,1572
+France,FRY3,Guyane,2008,384
+France,FRY4,La Réunion,2008,1678
+France,FRY5,Mayotte,2008,-
+Croatia,HR03,Jadranska Hrvatska,2008,2822
+Croatia,HR04,Kontinentalna Hrvatska,2008,2174
+Hungary,HU11,Budapest,2008,8429
+Hungary,HU32,Észak-Alföld,2008,-
+Ireland,IE04,Northern and Western,2008,897
+Ireland,IE05,Southern,2008,6498
+Ireland,IE06,Eastern and Midland,2008,23379
+,IS00,,2008,2241
+Italy,ITC1,Piemonte,2008,3397
+Italy,ITC3,Liguria,2008,1191
+Italy,ITC4,Lombardia,2008,34940
+Italy,ITF1,Abruzzo,2008,396
+Italy,ITF3,Campania,2008,5629
+Italy,ITF4,Puglia,2008,3493
+Italy,ITF6,Calabria,2008,1984
+Italy,ITG1,Sicilia,2008,11064
+Italy,ITG2,Sardegna,2008,5995
+Italy,ITH1,Provincia Autonoma di Bolzano/Bozen (1),2008,64
+Italy,ITH3,Veneto,2008,11853
+Italy,ITH4,Friuli-Venezia Giulia,2008,779
+Italy,ITH5,Emilia-Romagna,2008,5828
+Italy,ITI1,Toscana,2008,5866
+Italy,ITI2,Umbria,2008,-
+Italy,ITI3,Marche,2008,403
+Italy,ITI4,Lazio,2008,39558
+Lithuania,LT01,Sostinės regionas,2008,2042
+Lithuania,LT02,Vidurio ir vakarų Lietuvos regionas,2008,510
+Luxembourg,LU00,Luxembourg,2008,1713
+Latvia,LV00,Latvija,2008,3687
+Malta,MT00,Malta,2008,3110
+Netherlands,NL13,Drenthe,2008,152
+Netherlands,NL32,Noord-Holland,2008,47404
+Netherlands,NL33,Zuid-Holland,2008,995
+Netherlands,NL41,Noord-Brabant,2008,1675
+Netherlands,NL42,Limburg (NL),2008,235
+,NO01,,2008,18530
+,NO02,,2008,4
+,NO03,,2008,1803
+,NO04,,2008,4830
+,NO05,,2008,5918
+,NO06,,2008,3618
+,NO07,,2008,4602
+Poland,PL21,Małopolskie,2008,2924
+Poland,PL22,Śląskie,2008,2387
+Poland,PL41,Wielkopolskie,2008,1256
+Poland,PL42,Zachodniopomorskie,2008,-
+Poland,PL51,Dolnośląskie,2008,1478
+Poland,PL61,Kujawsko-pomorskie,2008,-
+Poland,PL63,Pomorskie,2008,1951
+Poland,PL71,Łódzkie,2008,-
+Poland,PL82,Podkarpackie,2008,-
+Poland,PL91,Warszawski stołeczny,2008,9480
+Portugal,PT11,Norte,2008,4535
+Portugal,PT15,Algarve,2008,5447
+Portugal,PT16,Centro (PT),2008,-
+Portugal,PT17,Área Metropolitana de Lisboa,2008,13604
+Portugal,PT18,Alentejo,2008,-
+Portugal,PT20,Região Autónoma dos Açores,2008,1424
+Portugal,PT30,Região Autónoma da Madeira,2008,2512
+Romania,RO11,Nord-Vest,2008,693
+Romania,RO12,Centru,2008,-
+Romania,RO21,Nord-Est,2008,-
+Romania,RO22,Sud-Est,2008,-
+Romania,RO32,București-Ilfov,2008,6787
+Romania,RO41,Sud-Vest Oltenia,2008,-
+Romania,RO42,Vest,2008,903
+Sweden,SE11,Stockholm,2008,19985
+Sweden,SE12,Östra Mellansverige,2008,2666
+Sweden,SE21,Småland med öarna,2008,682
+Sweden,SE22,Sydsverige,2008,2346
+Sweden,SE23,Västsverige,2008,5146
+Sweden,SE31,Norra Mellansverige,2008,119
+Sweden,SE32,Mellersta Norrland,2008,687
+Sweden,SE33,Övre Norrland,2008,2251
+Slovenia,SI04,Zahodna Slovenija,2008,1649
+Slovakia,SK01,Bratislavský kraj,2008,2206
+Slovakia,SK04,Východné Slovensko,2008,583
+United Kingdom,UKC1,Tees Valley and Durham,2008,642
+United Kingdom,UKC2,Northumberland and Tyne and Wear,2008,5016
+United Kingdom,UKD3,Greater Manchester,2008,21062
+United Kingdom,UKD4,Lancashire,2008,439
+United Kingdom,UKD7,Merseyside,2008,5330
+United Kingdom,UKE1,East Yorkshire and Northern Lincolnshire,2008,424
+United Kingdom,UKE3,South Yorkshire,2008,968
+United Kingdom,UKE4,West Yorkshire,2008,2860
+United Kingdom,UKF2,"Leicestershire, Rutland and Northamptonshire",2008,5616
+United Kingdom,UKG1,"Herefordshire, Worcestershire and Warwickshire",2008,331
+United Kingdom,UKG3,West Midlands,2008,9576
+United Kingdom,UKH1,East Anglia,2008,585
+United Kingdom,UKH2,Bedfordshire and Hertfordshire,2008,10174
+United Kingdom,UKH3,Essex,2008,22383
+United Kingdom,UKI4,Inner London — East,2008,3260
+United Kingdom,UKI6,Outer London — South,2008,-
+United Kingdom,UKI7,Outer London — West and North West,2008,66907
+United Kingdom,UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",2008,-
+United Kingdom,UKJ2,"Surrey, East and West Sussex",2008,34162
+United Kingdom,UKJ3,Hampshire and Isle of Wight,2008,1946
+United Kingdom,UKJ4,Kent,2008,13
+United Kingdom,UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",2008,6248
+United Kingdom,UKK2,Dorset and Somerset,2008,1079
+United Kingdom,UKK3,Cornwall and Isles of Scilly,2008,427
+United Kingdom,UKK4,Devon,2008,950
+United Kingdom,UKL2,East Wales,2008,1979
+United Kingdom,UKM5,North Eastern Scotland,2008,3290
+United Kingdom,UKM6,Highlands and Islands,2008,1377
+United Kingdom,UKM7,Eastern Scotland,2008,9052
+United Kingdom,UKM8,West Central Scotland,2008,8135
+United Kingdom,UKM9,Southern Scotland,2008,2414
+United Kingdom,UKN0,Northern Ireland,2008,8233
+United Kingdom,UKZZ,Extra-Regio NUTS 2,2008,4
+Austria,AT12,Niederösterreich,2009,18045
+Austria,AT21,Kärnten,2009,409
+Austria,AT22,Steiermark,2009,926
+Austria,AT31,Oberösterreich,2009,641
+Austria,AT32,Salzburg,2009,1534
+Austria,AT33,Tirol,2009,943
+Belgium,BE21,Prov. (2) Antwerpen,2009,125
+Belgium,BE24,Prov. Vlaams-Brabant,2009,16785
+Belgium,BE25,Prov. West-Vlaanderen,2009,151
+Belgium,BE32,Prov. Hainaut,2009,3919
+Belgium,BE33,Prov. Liège,2009,351
+Bulgaria,BG33,Североизточен,2009,1212
+Bulgaria,BG34,Югоизточен,2009,1684
+Bulgaria,BG41,Югозападен,2009,3116
+,CH01,,2009,11176
+,CH02,,2009,95
+,CH04,,2009,21911
+,CH05,,2009,73
+,CH07,,2009,157
+Cyprus,CY00,Κύπρος,2009,6730
+Czechia,CZ01,Praha,2009,11602
+Czechia,CZ04,Severozápad,2009,62
+Czechia,CZ05,Severovýchod,2009,43
+Czechia,CZ06,Jihovýchod,2009,391
+Czechia,CZ08,Moravskoslezsko,2009,270
+Germany,DE11,Stuttgart,2009,8875
+Germany,DE12,Karlsruhe,2009,1130
+Germany,DE13,Freiburg,2009,0
+Germany,DE14,Tübingen,2009,544
+Germany,DE21,Oberbayern,2009,32560
+Germany,DE22,Niederbayern,2009,0
+Germany,DE24,Oberfranken,2009,17
+Germany,DE25,Mittelfranken,2009,3928
+Germany,DE27,Schwaben,2009,806
+Germany,DE30,Berlin,2009,14133
+Germany,DE40,Brandenburg,2009,6767
+Germany,DE50,Bremen,2009,2435
+Germany,DE60,Hamburg,2009,12178
+Germany,DE71,Darmstadt,2009,50573
+Germany,DE73,Kassel,2009,0
+Germany,DE80,Mecklenburg-Vorpommern,2009,147
+Germany,DE91,Braunschweig,2009,1
+Germany,DE92,Hannover,2009,4905
+Germany,DE94,Weser-Ems,2009,0
+Germany,DEA1,Düsseldorf,2009,20115
+Germany,DEA2,Köln,2009,9696
+Germany,DEA3,Münster,2009,1344
+Germany,DEA4,Detmold,2009,937
+Germany,DEA5,Arnsberg,2009,1691
+Germany,DEB1,Koblenz,2009,3738
+Germany,DEB2,Trier,2009,0
+Germany,DEB3,Rheinhessen-Pfalz,2009,314
+Germany,DEC0,Saarland,2009,396
+Germany,DED2,Dresden,2009,1680
+Germany,DED5,Leipzig,2009,1834
+Germany,DEE0,Sachsen-Anhalt,2009,0
+Germany,DEF0,Schleswig-Holstein,2009,831
+Germany,DEG0,Thüringen,2009,256
+Germany,DEZZ,Extra-Regio NUTS 2,2009,21
+Denmark,DK01,Hovedstaden,2009,19609
+Denmark,DK02,Sjælland,2009,8
+Denmark,DK03,Syddanmark,2009,2391
+Denmark,DK04,Midtjylland,2009,689
+Denmark,DK05,Nordjylland,2009,1117
+Estonia,EE00,Eesti,2009,1341
+Greece,EL30,Αττική,2009,16216
+Greece,EL41,Βόρειο Αιγαίο,2009,1517
+Greece,EL42,Νότιο Αιγαίο,2009,6527
+Greece,EL43,Κρήτη,2009,6947
+Greece,EL51,"Ανατολική Μακεδονία, Θράκη",2009,663
+Greece,EL52,Κεντρική Μακεδονία,2009,4208
+Greece,EL53,Δυτική Μακεδονία,2009,9
+Greece,EL54,Ήπειρος,2009,138
+Greece,EL61,Θεσσαλία,2009,293
+Greece,EL62,Ιόνια Νησιά,2009,3105
+Greece,EL63,Δυτική Ελλάδα,2009,411
+Greece,EL64,Στερεά Ελλάδα,2009,13
+Greece,EL65,Πελοπόννησος,2009,77
+Spain,ES11,Galicia,2009,4084
+Spain,ES12,Principado de Asturias,2009,1310
+Spain,ES13,Cantabria,2009,957
+Spain,ES21,País Vasco,2009,3984
+Spain,ES22,Comunidad Foral de Navarra,2009,325
+Spain,ES24,Aragón,2009,529
+Spain,ES30,Comunidad de Madrid,2009,47944
+Spain,ES41,Castilla y León,2009,357
+Spain,ES51,Cataluña,2009,34234
+Spain,ES52,Comunidad Valenciana,2009,13838
+Spain,ES53,Illes Balears,2009,27515
+Spain,ES61,Andalucía,2009,18592
+Spain,ES62,Región de Murcia,2009,1631
+Spain,ES64,Ciudad Autónoma de Melilla,2009,286
+Spain,ES70,Canarias,2009,26223
+Finland,FI19,Länsi-Suomi,2009,1214
+Finland,FI1B,Helsinki-Uusimaa,2009,12602
+Finland,FI1C,Etelä-Suomi,2009,292
+Finland,FI1D,Pohjois- ja Itä-Suomi,2009,2062
+Finland,FI20,Åland,2009,56
+Finland,FIZZ,Extra-Regio NUTS 2,2009,0
+France,FR10,Île-de-France,2009,82776
+France,FRB0,Centre-Val de Loire,2009,112
+France,FRC1,Bourgogne,2009,-
+France,FRD1,Basse-Normandie,2009,166
+France,FRD2,Haute-Normandie,2009,68
+France,FRE1,Nord-Pas-de-Calais,2009,1134
+France,FRE2,Picardie,2009,2592
+France,FRF1,Alsace,2009,4934
+France,FRF2,Champagne-Ardenne,2009,3
+France,FRF3,Lorraine,2009,229
+France,FRG0,Pays-de-la-Loire,2009,2574
+France,FRH0,Bretagne,2009,1732
+France,FRI1,Aquitaine,2009,5260
+France,FRI2,Limousin,2009,369
+France,FRI3,Poitou-Charentes,2009,301
+France,FRJ1,Languedoc-Roussillon,2009,2367
+France,FRJ2,Midi-Pyrénées,2009,6866
+France,FRK1,Auvergne,2009,411
+France,FRK2,Rhône-Alpes,2009,8358
+France,FRL0,Provence-Alpes-Côte d’Azur,2009,17567
+France,FRM0,Corse,2009,2780
+France,FRY1,Guadeloupe,2009,1882
+France,FRY2,Martinique,2009,1495
+France,FRY3,Guyane,2009,394
+France,FRY4,La Réunion,2009,1776
+France,FRY5,Mayotte,2009,-
+Croatia,HR03,Jadranska Hrvatska,2009,2801
+Croatia,HR04,Kontinentalna Hrvatska,2009,1997
+Hungary,HU11,Budapest,2009,8081
+Hungary,HU32,Észak-Alföld,2009,-
+Ireland,IE04,Northern and Western,2009,802
+Ireland,IE05,Southern,2009,5557
+Ireland,IE06,Eastern and Midland,2009,20469
+,IS00,,2009,1837
+Italy,ITC1,Piemonte,2009,3208
+Italy,ITC3,Liguria,2009,1119
+Italy,ITC4,Lombardia,2009,32984
+Italy,ITF1,Abruzzo,2009,408
+Italy,ITF3,Campania,2009,5289
+Italy,ITF4,Puglia,2009,3954
+Italy,ITF6,Calabria,2009,2074
+Italy,ITG1,Sicilia,2009,11444
+Italy,ITG2,Sardegna,2009,6378
+Italy,ITH1,Provincia Autonoma di Bolzano/Bozen (1),2009,51
+Italy,ITH3,Veneto,2009,11472
+Italy,ITH4,Friuli-Venezia Giulia,2009,692
+Italy,ITH5,Emilia-Romagna,2009,5915
+Italy,ITI1,Toscana,2009,5676
+Italy,ITI2,Umbria,2009,118
+Italy,ITI3,Marche,2009,420
+Italy,ITI4,Lazio,2009,38172
+Lithuania,LT01,Sostinės regionas,2009,1306
+Lithuania,LT02,Vidurio ir vakarų Lietuvos regionas,2009,562
+Luxembourg,LU00,Luxembourg,2009,1535
+Latvia,LV00,Latvija,2009,4063
+Malta,MT00,Malta,2009,2919
+Netherlands,NL13,Drenthe,2009,137
+Netherlands,NL32,Noord-Holland,2009,43532
+Netherlands,NL33,Zuid-Holland,2009,927
+Netherlands,NL41,Noord-Brabant,2009,1745
+Netherlands,NL42,Limburg (NL),2009,138
+,NO01,,2009,18183
+,NO02,,2009,-
+,NO03,,2009,2441
+,NO04,,2009,4731
+,NO05,,2009,5601
+,NO06,,2009,3419
+,NO07,,2009,3874
+Poland,PL21,Małopolskie,2009,2659
+Poland,PL22,Śląskie,2009,2336
+Poland,PL41,Wielkopolskie,2009,1196
+Poland,PL42,Zachodniopomorskie,2009,-
+Poland,PL51,Dolnośląskie,2009,1324
+Poland,PL61,Kujawsko-pomorskie,2009,-
+Poland,PL63,Pomorskie,2009,1888
+Poland,PL71,Łódzkie,2009,-
+Poland,PL82,Podkarpackie,2009,-
+Poland,PL91,Warszawski stołeczny,2009,8333
+Portugal,PT11,Norte,2009,4509
+Portugal,PT15,Algarve,2009,5062
+Portugal,PT16,Centro (PT),2009,-
+Portugal,PT17,Área Metropolitana de Lisboa,2009,13265
+Portugal,PT18,Alentejo,2009,-
+Portugal,PT20,Região Autónoma dos Açores,2009,1370
+Portugal,PT30,Região Autónoma da Madeira,2009,2405
+Romania,RO11,Nord-Vest,2009,860
+Romania,RO12,Centru,2009,-
+Romania,RO21,Nord-Est,2009,-
+Romania,RO22,Sud-Est,2009,-
+Romania,RO32,București-Ilfov,2009,6454
+Romania,RO41,Sud-Vest Oltenia,2009,-
+Romania,RO42,Vest,2009,981
+Sweden,SE11,Stockholm,2009,18031
+Sweden,SE12,Östra Mellansverige,2009,2699
+Sweden,SE21,Småland med öarna,2009,609
+Sweden,SE22,Sydsverige,2009,2082
+Sweden,SE23,Västsverige,2009,4418
+Sweden,SE31,Norra Mellansverige,2009,85
+Sweden,SE32,Mellersta Norrland,2009,580
+Sweden,SE33,Övre Norrland,2009,2151
+Slovenia,SI04,Zahodna Slovenija,2009,1423
+Slovakia,SK01,Bratislavský kraj,2009,1701
+Slovakia,SK04,Východné Slovensko,2009,348
+United Kingdom,UKC1,Tees Valley and Durham,2009,288
+United Kingdom,UKC2,Northumberland and Tyne and Wear,2009,4569
+United Kingdom,UKD3,Greater Manchester,2009,18630
+United Kingdom,UKD4,Lancashire,2009,277
+United Kingdom,UKD7,Merseyside,2009,4879
+United Kingdom,UKE1,East Yorkshire and Northern Lincolnshire,2009,335
+United Kingdom,UKE3,South Yorkshire,2009,835
+United Kingdom,UKE4,West Yorkshire,2009,2553
+United Kingdom,UKF2,"Leicestershire, Rutland and Northamptonshire",2009,4653
+United Kingdom,UKG1,"Herefordshire, Worcestershire and Warwickshire",2009,0
+United Kingdom,UKG3,West Midlands,2009,9092
+United Kingdom,UKH1,East Anglia,2009,431
+United Kingdom,UKH2,Bedfordshire and Hertfordshire,2009,9115
+United Kingdom,UKH3,Essex,2009,19953
+United Kingdom,UKI4,Inner London — East,2009,2797
+United Kingdom,UKI6,Outer London — South,2009,-
+United Kingdom,UKI7,Outer London — West and North West,2009,65904
+United Kingdom,UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",2009,1
+United Kingdom,UKJ2,"Surrey, East and West Sussex",2009,32360
+United Kingdom,UKJ3,Hampshire and Isle of Wight,2009,1789
+United Kingdom,UKJ4,Kent,2009,5
+United Kingdom,UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",2009,5635
+United Kingdom,UKK2,Dorset and Somerset,2009,868
+United Kingdom,UKK3,Cornwall and Isles of Scilly,2009,-
+United Kingdom,UKK4,Devon,2009,788
+United Kingdom,UKL2,East Wales,2009,1625
+United Kingdom,UKM5,North Eastern Scotland,2009,2984
+United Kingdom,UKM6,Highlands and Islands,2009,1289
+United Kingdom,UKM7,Eastern Scotland,2009,9114
+United Kingdom,UKM8,West Central Scotland,2009,7213
+United Kingdom,UKM9,Southern Scotland,2009,1817
+United Kingdom,UKN0,Northern Ireland,2009,7504
+United Kingdom,UKZZ,Extra-Regio NUTS 2,2009,347
+Austria,AT12,Niederösterreich,2010,19617
+Austria,AT21,Kärnten,2010,427
+Austria,AT22,Steiermark,2010,964
+Austria,AT31,Oberösterreich,2010,642
+Austria,AT32,Salzburg,2010,1613
+Austria,AT33,Tirol,2010,1025
+Belgium,BE21,Prov. (2) Antwerpen,2010,81
+Belgium,BE24,Prov. Vlaams-Brabant,2010,16980
+Belgium,BE25,Prov. West-Vlaanderen,2010,175
+Belgium,BE32,Prov. Hainaut,2010,5181
+Belgium,BE33,Prov. Liège,2010,295
+Bulgaria,BG33,Североизточен,2010,1200
+Bulgaria,BG34,Югоизточен,2010,1872
+Bulgaria,BG41,Югозападен,2010,3278
+,CH01,,2010,11752
+,CH02,,2010,86
+,CH04,,2010,22849
+,CH05,,2010,68
+,CH07,,2010,159
+Cyprus,CY00,Κύπρος,2010,6948
+Czechia,CZ01,Praha,2010,11514
+Czechia,CZ04,Severozápad,2010,68
+Czechia,CZ05,Severovýchod,2010,59
+Czechia,CZ06,Jihovýchod,2010,356
+Czechia,CZ08,Moravskoslezsko,2010,244
+Germany,DE11,Stuttgart,2010,9135
+Germany,DE12,Karlsruhe,2010,1215
+Germany,DE13,Freiburg,2010,0
+Germany,DE14,Tübingen,2010,570
+Germany,DE21,Oberbayern,2010,34520
+Germany,DE22,Niederbayern,2010,0
+Germany,DE24,Oberfranken,2010,14
+Germany,DE25,Mittelfranken,2010,4020
+Germany,DE27,Schwaben,2010,903
+Germany,DE30,Berlin,2010,14966
+Germany,DE40,Brandenburg,2010,7255
+Germany,DE50,Bremen,2010,2657
+Germany,DE60,Hamburg,2010,12884
+Germany,DE71,Darmstadt,2010,52646
+Germany,DE73,Kassel,2010,0
+Germany,DE80,Mecklenburg-Vorpommern,2010,171
+Germany,DE91,Braunschweig,2010,2
+Germany,DE92,Hannover,2010,4994
+Germany,DE94,Weser-Ems,2010,0
+Germany,DEA1,Düsseldorf,2010,21789
+Germany,DEA2,Köln,2010,9786
+Germany,DEA3,Münster,2010,1288
+Germany,DEA4,Detmold,2010,977
+Germany,DEA5,Arnsberg,2010,1732
+Germany,DEB1,Koblenz,2010,3454
+Germany,DEB2,Trier,2010,0
+Germany,DEB3,Rheinhessen-Pfalz,2010,242
+Germany,DEC0,Saarland,2010,417
+Germany,DED2,Dresden,2010,1794
+Germany,DED5,Leipzig,2010,1810
+Germany,DEE0,Sachsen-Anhalt,2010,0
+Germany,DEF0,Schleswig-Holstein,2010,711
+Germany,DEG0,Thüringen,2010,305
+Germany,DEZZ,Extra-Regio NUTS 2,2010,17
+Denmark,DK01,Hovedstaden,2010,21394
+Denmark,DK02,Sjælland,2010,9
+Denmark,DK03,Syddanmark,2010,2665
+Denmark,DK04,Midtjylland,2010,869
+Denmark,DK05,Nordjylland,2010,1323
+Estonia,EE00,Eesti,2010,1381
+Greece,EL30,Αττική,2010,15393
+Greece,EL41,Βόρειο Αιγαίο,2010,1349
+Greece,EL42,Νότιο Αιγαίο,2010,6785
+Greece,EL43,Κρήτη,2010,6655
+Greece,EL51,"Ανατολική Μακεδονία, Θράκη",2010,593
+Greece,EL52,Κεντρική Μακεδονία,2010,3969
+Greece,EL53,Δυτική Μακεδονία,2010,6
+Greece,EL54,Ήπειρος,2010,120
+Greece,EL61,Θεσσαλία,2010,302
+Greece,EL62,Ιόνια Νησιά,2010,3021
+Greece,EL63,Δυτική Ελλάδα,2010,390
+Greece,EL64,Στερεά Ελλάδα,2010,5
+Greece,EL65,Πελοπόννησος,2010,100
+Spain,ES11,Galicia,2010,4337
+Spain,ES12,Principado de Asturias,2010,1350
+Spain,ES13,Cantabria,2010,918
+Spain,ES21,País Vasco,2010,4194
+Spain,ES22,Comunidad Foral de Navarra,2010,283
+Spain,ES24,Aragón,2010,606
+Spain,ES30,Comunidad de Madrid,2010,49797
+Spain,ES41,Castilla y León,2010,380
+Spain,ES51,Cataluña,2010,35421
+Spain,ES52,Comunidad Valenciana,2010,14283
+Spain,ES53,Illes Balears,2010,27939
+Spain,ES61,Andalucía,2010,18936
+Spain,ES62,Región de Murcia,2010,1348
+Spain,ES64,Ciudad Autónoma de Melilla,2010,254
+Spain,ES70,Canarias,2010,27557
+Finland,FI19,Länsi-Suomi,2010,1122
+Finland,FI1B,Helsinki-Uusimaa,2010,12861
+Finland,FI1C,Etelä-Suomi,2010,417
+Finland,FI1D,Pohjois- ja Itä-Suomi,2010,1992
+Finland,FI20,Åland,2010,49
+Finland,FIZZ,Extra-Regio NUTS 2,2010,-
+France,FR10,Île-de-France,2010,83089
+France,FRB0,Centre-Val de Loire,2010,-
+France,FRC1,Bourgogne,2010,-
+France,FRD1,Basse-Normandie,2010,-
+France,FRD2,Haute-Normandie,2010,-
+France,FRE1,Nord-Pas-de-Calais,2010,1149
+France,FRE2,Picardie,2010,2931
+France,FRF1,Alsace,2010,5128
+France,FRF2,Champagne-Ardenne,2010,21
+France,FRF3,Lorraine,2010,233
+France,FRG0,Pays-de-la-Loire,2010,2969
+France,FRH0,Bretagne,2010,1596
+France,FRI1,Aquitaine,2010,5522
+France,FRI2,Limousin,2010,333
+France,FRI3,Poitou-Charentes,2010,190
+France,FRJ1,Languedoc-Roussillon,2010,2114
+France,FRJ2,Midi-Pyrénées,2010,6778
+France,FRK1,Auvergne,2010,366
+France,FRK2,Rhône-Alpes,2010,8377
+France,FRL0,Provence-Alpes-Côte d’Azur,2010,17423
+France,FRM0,Corse,2010,2827
+France,FRY1,Guadeloupe,2010,1995
+France,FRY2,Martinique,2010,1556
+France,FRY3,Guyane,2010,416
+France,FRY4,La Réunion,2010,1911
+France,FRY5,Mayotte,2010,-
+Croatia,HR03,Jadranska Hrvatska,2010,3084
+Croatia,HR04,Kontinentalna Hrvatska,2010,2017
+Hungary,HU11,Budapest,2010,8175
+Hungary,HU32,Észak-Alföld,2010,-
+Ireland,IE04,Northern and Western,2010,740
+Ireland,IE05,Southern,2010,4254
+Ireland,IE06,Eastern and Midland,2010,18408
+,IS00,,2010,2036
+Italy,ITC1,Piemonte,2010,3541
+Italy,ITC3,Liguria,2010,1272
+Italy,ITC4,Lombardia,2010,34826
+Italy,ITF1,Abruzzo,2010,456
+Italy,ITF3,Campania,2010,5536
+Italy,ITF4,Puglia,2010,5045
+Italy,ITF6,Calabria,2010,2377
+Italy,ITG1,Sicilia,2010,12453
+Italy,ITG2,Sardegna,2010,6363
+Italy,ITH1,Provincia Autonoma di Bolzano/Bozen (1),2010,54
+Italy,ITH3,Veneto,2010,11958
+Italy,ITH4,Friuli-Venezia Giulia,2010,721
+Italy,ITH5,Emilia-Romagna,2010,6873
+Italy,ITI1,Toscana,2010,5773
+Italy,ITI2,Umbria,2010,108
+Italy,ITI3,Marche,2010,504
+Italy,ITI4,Lazio,2010,40486
+Lithuania,LT01,Sostinės regionas,2010,1370
+Lithuania,LT02,Vidurio ir vakarų Lietuvos regionas,2010,912
+Luxembourg,LU00,Luxembourg,2010,1614
+Latvia,LV00,Latvija,2010,4656
+Malta,MT00,Malta,2010,3294
+Netherlands,NL13,Drenthe,2010,124
+Netherlands,NL32,Noord-Holland,2010,45146
+Netherlands,NL33,Zuid-Holland,2010,928
+Netherlands,NL41,Noord-Brabant,2010,2190
+Netherlands,NL42,Limburg (NL),2010,232
+,NO01,,2010,19137
+,NO02,,2010,-
+,NO03,,2010,2990
+,NO04,,2010,4816
+,NO05,,2010,5941
+,NO06,,2010,3505
+,NO07,,2010,3983
+Poland,PL21,Małopolskie,2010,2839
+Poland,PL22,Śląskie,2010,2381
+Poland,PL41,Wielkopolskie,2010,1384
+Poland,PL42,Zachodniopomorskie,2010,-
+Poland,PL51,Dolnośląskie,2010,1599
+Poland,PL61,Kujawsko-pomorskie,2010,-
+Poland,PL63,Pomorskie,2010,2215
+Poland,PL71,Łódzkie,2010,-
+Poland,PL82,Podkarpackie,2010,-
+Poland,PL91,Warszawski stołeczny,2010,8728
+Portugal,PT11,Norte,2010,5280
+Portugal,PT15,Algarve,2010,5337
+Portugal,PT16,Centro (PT),2010,-
+Portugal,PT17,Área Metropolitana de Lisboa,2010,14050
+Portugal,PT18,Alentejo,2010,-
+Portugal,PT20,Região Autónoma dos Açores,2010,1351
+Portugal,PT30,Região Autónoma da Madeira,2010,2289
+Romania,RO11,Nord-Vest,2010,1089
+Romania,RO12,Centru,2010,-
+Romania,RO21,Nord-Est,2010,-
+Romania,RO22,Sud-Est,2010,-
+Romania,RO32,București-Ilfov,2010,7009
+Romania,RO41,Sud-Vest Oltenia,2010,-
+Romania,RO42,Vest,2010,1159
+Sweden,SE11,Stockholm,2010,18998
+Sweden,SE12,Östra Mellansverige,2010,2658
+Sweden,SE21,Småland med öarna,2010,637
+Sweden,SE22,Sydsverige,2010,2178
+Sweden,SE23,Västsverige,2010,4849
+Sweden,SE31,Norra Mellansverige,2010,82
+Sweden,SE32,Mellersta Norrland,2010,612
+Sweden,SE33,Övre Norrland,2010,2240
+Slovenia,SI04,Zahodna Slovenija,2010,1382
+Slovakia,SK01,Bratislavský kraj,2010,1658
+Slovakia,SK04,Východné Slovensko,2010,264
+United Kingdom,UKC1,Tees Valley and Durham,2010,225
+United Kingdom,UKC2,Northumberland and Tyne and Wear,2010,4346
+United Kingdom,UKD3,Greater Manchester,2010,17662
+United Kingdom,UKD4,Lancashire,2010,234
+United Kingdom,UKD7,Merseyside,2010,5008
+United Kingdom,UKE1,East Yorkshire and Northern Lincolnshire,2010,283
+United Kingdom,UKE3,South Yorkshire,2010,876
+United Kingdom,UKE4,West Yorkshire,2010,2722
+United Kingdom,UKF2,"Leicestershire, Rutland and Northamptonshire",2010,4111
+United Kingdom,UKG1,"Herefordshire, Worcestershire and Warwickshire",2010,-
+United Kingdom,UKG3,West Midlands,2010,8563
+United Kingdom,UKH1,East Anglia,2010,427
+United Kingdom,UKH2,Bedfordshire and Hertfordshire,2010,8733
+United Kingdom,UKH3,Essex,2010,18566
+United Kingdom,UKI4,Inner London — East,2010,2781
+United Kingdom,UKI6,Outer London — South,2010,-
+United Kingdom,UKI7,Outer London — West and North West,2010,65742
+United Kingdom,UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",2010,2
+United Kingdom,UKJ2,"Surrey, East and West Sussex",2010,31341
+United Kingdom,UKJ3,Hampshire and Isle of Wight,2010,1734
+United Kingdom,UKJ4,Kent,2010,25
+United Kingdom,UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",2010,5739
+United Kingdom,UKK2,Dorset and Somerset,2010,750
+United Kingdom,UKK3,Cornwall and Isles of Scilly,2010,-
+United Kingdom,UKK4,Devon,2010,737
+United Kingdom,UKL2,East Wales,2010,1398
+United Kingdom,UKM5,North Eastern Scotland,2010,2763
+United Kingdom,UKM6,Highlands and Islands,2010,1228
+United Kingdom,UKM7,Eastern Scotland,2010,8664
+United Kingdom,UKM8,West Central Scotland,2010,6522
+United Kingdom,UKM9,Southern Scotland,2010,1660
+United Kingdom,UKN0,Northern Ireland,2010,7090
+United Kingdom,UKZZ,Extra-Regio NUTS 2,2010,282
+Austria,AT12,Niederösterreich,2011,21106
+Austria,AT21,Kärnten,2011,378
+Austria,AT22,Steiermark,2011,959
+Austria,AT31,Oberösterreich,2011,660
+Austria,AT32,Salzburg,2011,1696
+Austria,AT33,Tirol,2011,996
+Belgium,BE21,Prov. (2) Antwerpen,2011,114
+Belgium,BE24,Prov. Vlaams-Brabant,2011,18613
+Belgium,BE25,Prov. West-Vlaanderen,2011,201
+Belgium,BE32,Prov. Hainaut,2011,5883
+Belgium,BE33,Prov. Liège,2011,303
+Bulgaria,BG33,Североизточен,2011,1165
+Bulgaria,BG34,Югоизточен,2011,2227
+Bulgaria,BG41,Югозападен,2011,3466
+,CH01,,2011,13010
+,CH02,,2011,169
+,CH04,,2011,24311
+,CH05,,2011,95
+,CH07,,2011,165
+Cyprus,CY00,Κύπρος,2011,7190
+Czechia,CZ01,Praha,2011,11724
+Czechia,CZ04,Severozápad,2011,96
+Czechia,CZ05,Severovýchod,2011,59
+Czechia,CZ06,Jihovýchod,2011,525
+Czechia,CZ08,Moravskoslezsko,2011,246
+Germany,DE11,Stuttgart,2011,9535
+Germany,DE12,Karlsruhe,2011,1107
+Germany,DE13,Freiburg,2011,-
+Germany,DE14,Tübingen,2011,539
+Germany,DE21,Oberbayern,2011,37593
+Germany,DE22,Niederbayern,2011,-
+Germany,DE24,Oberfranken,2011,-
+Germany,DE25,Mittelfranken,2011,3934
+Germany,DE27,Schwaben,2011,755
+Germany,DE30,Berlin,2011,16892
+Germany,DE40,Brandenburg,2011,7099
+Germany,DE50,Bremen,2011,2553
+Germany,DE60,Hamburg,2011,13527
+Germany,DE71,Darmstadt,2011,56275
+Germany,DE73,Kassel,2011,-
+Germany,DE80,Mecklenburg-Vorpommern,2011,164
+Germany,DE91,Braunschweig,2011,-
+Germany,DE92,Hannover,2011,5301
+Germany,DE94,Weser-Ems,2011,-
+Germany,DEA1,Düsseldorf,2011,22707
+Germany,DEA2,Köln,2011,9597
+Germany,DEA3,Münster,2011,1292
+Germany,DEA4,Detmold,2011,954
+Germany,DEA5,Arnsberg,2011,1808
+Germany,DEB1,Koblenz,2011,2830
+Germany,DEB2,Trier,2011,-
+Germany,DEB3,Rheinhessen-Pfalz,2011,208
+Germany,DEC0,Saarland,2011,411
+Germany,DED2,Dresden,2011,1902
+Germany,DED5,Leipzig,2011,1834
+Germany,DEE0,Sachsen-Anhalt,2011,-
+Germany,DEF0,Schleswig-Holstein,2011,522
+Germany,DEG0,Thüringen,2011,265
+Germany,DEZZ,Extra-Regio NUTS 2,2011,-
+Denmark,DK01,Hovedstaden,2011,22622
+Denmark,DK02,Sjælland,2011,13
+Denmark,DK03,Syddanmark,2011,2796
+Denmark,DK04,Midtjylland,2011,880
+Denmark,DK05,Nordjylland,2011,1378
+Estonia,EE00,Eesti,2011,1908
+Greece,EL30,Αττική,2011,14427
+Greece,EL41,Βόρειο Αιγαίο,2011,1272
+Greece,EL42,Νότιο Αιγαίο,2011,7795
+Greece,EL43,Κρήτη,2011,7117
+Greece,EL51,"Ανατολική Μακεδονία, Θράκη",2011,505
+Greece,EL52,Κεντρική Μακεδονία,2011,4008
+Greece,EL53,Δυτική Μακεδονία,2011,12
+Greece,EL54,Ήπειρος,2011,89
+Greece,EL61,Θεσσαλία,2011,361
+Greece,EL62,Ιόνια Νησιά,2011,3145
+Greece,EL63,Δυτική Ελλάδα,2011,387
+Greece,EL64,Στερεά Ελλάδα,2011,5
+Greece,EL65,Πελοπόννησος,2011,107
+Spain,ES11,Galicia,2011,4429
+Spain,ES12,Principado de Asturias,2011,1334
+Spain,ES13,Cantabria,2011,1115
+Spain,ES21,País Vasco,2011,4301
+Spain,ES22,Comunidad Foral de Navarra,2011,230
+Spain,ES24,Aragón,2011,751
+Spain,ES30,Comunidad de Madrid,2011,49532
+Spain,ES41,Castilla y León,2011,453
+Spain,ES51,Cataluña,2011,38653
+Spain,ES52,Comunidad Valenciana,2011,14860
+Spain,ES53,Illes Balears,2011,30265
+Spain,ES61,Andalucía,2011,20243
+Spain,ES62,Región de Murcia,2011,1263
+Spain,ES64,Ciudad Autónoma de Melilla,2011,278
+Spain,ES70,Canarias,2011,31190
+Finland,FI19,Länsi-Suomi,2011,1233
+Finland,FI1B,Helsinki-Uusimaa,2011,14871
+Finland,FI1C,Etelä-Suomi,2011,493
+Finland,FI1D,Pohjois- ja Itä-Suomi,2011,2436
+Finland,FI20,Åland,2011,54
+Finland,FIZZ,Extra-Regio NUTS 2,2011,-
+France,FR10,Île-de-France,2011,87813
+France,FRB0,Centre-Val de Loire,2011,-
+France,FRC1,Bourgogne,2011,-
+France,FRD1,Basse-Normandie,2011,-
+France,FRD2,Haute-Normandie,2011,-
+France,FRE1,Nord-Pas-de-Calais,2011,1143
+France,FRE2,Picardie,2011,3677
+France,FRF1,Alsace,2011,6043
+France,FRF2,Champagne-Ardenne,2011,51
+France,FRF3,Lorraine,2011,250
+France,FRG0,Pays-de-la-Loire,2011,3172
+France,FRH0,Bretagne,2011,1585
+France,FRI1,Aquitaine,2011,5981
+France,FRI2,Limousin,2011,335
+France,FRI3,Poitou-Charentes,2011,228
+France,FRJ1,Languedoc-Roussillon,2011,2430
+France,FRJ2,Midi-Pyrénées,2011,7384
+France,FRK1,Auvergne,2011,389
+France,FRK2,Rhône-Alpes,2011,8886
+France,FRL0,Provence-Alpes-Côte d’Azur,2011,18202
+France,FRM0,Corse,2011,2934
+France,FRY1,Guadeloupe,2011,2120
+France,FRY2,Martinique,2011,1620
+France,FRY3,Guyane,2011,431
+France,FRY4,La Réunion,2011,2084
+France,FRY5,Mayotte,2011,-
+Croatia,HR03,Jadranska Hrvatska,2011,3206
+Croatia,HR04,Kontinentalna Hrvatska,2011,2263
+Hungary,HU11,Budapest,2011,8885
+Hungary,HU32,Észak-Alföld,2011,-
+Ireland,IE04,Northern and Western,2011,719
+Ireland,IE05,Southern,2011,4004
+Ireland,IE06,Eastern and Midland,2011,18720
+,IS00,,2011,2463
+Italy,ITC1,Piemonte,2011,3921
+Italy,ITC3,Liguria,2011,1394
+Italy,ITC4,Lombardia,2011,36587
+Italy,ITF1,Abruzzo,2011,545
+Italy,ITF3,Campania,2011,5728
+Italy,ITF4,Puglia,2011,5811
+Italy,ITF6,Calabria,2011,2813
+Italy,ITG1,Sicilia,2011,13300
+Italy,ITG2,Sardegna,2011,6988
+Italy,ITH1,Provincia Autonoma di Bolzano/Bozen (1),2011,59
+Italy,ITH3,Veneto,2011,12978
+Italy,ITH4,Friuli-Venezia Giulia,2011,854
+Italy,ITH5,Emilia-Romagna,2011,7347
+Italy,ITI1,Toscana,2011,6403
+Italy,ITI2,Umbria,2011,171
+Italy,ITI3,Marche,2011,597
+Italy,ITI4,Lazio,2011,42146
+Lithuania,LT01,Sostinės regionas,2011,1709
+Lithuania,LT02,Vidurio ir vakarų Lietuvos regionas,2011,983
+Luxembourg,LU00,Luxembourg,2011,1837
+Latvia,LV00,Latvija,2011,5098
+Malta,MT00,Malta,2011,3507
+Netherlands,NL13,Drenthe,2011,116
+Netherlands,NL32,Noord-Holland,2011,49690
+Netherlands,NL33,Zuid-Holland,2011,1082
+Netherlands,NL41,Noord-Brabant,2011,2670
+Netherlands,NL42,Limburg (NL),2011,337
+,NO01,,2011,21103
+,NO02,,2011,-
+,NO03,,2011,3005
+,NO04,,2011,5394
+,NO05,,2011,6595
+,NO06,,2011,3902
+,NO07,,2011,4217
+Poland,PL21,Małopolskie,2011,2994
+Poland,PL22,Śląskie,2011,2513
+Poland,PL41,Wielkopolskie,2011,1417
+Poland,PL42,Zachodniopomorskie,2011,245
+Poland,PL51,Dolnośląskie,2011,1609
+Poland,PL61,Kujawsko-pomorskie,2011,277
+Poland,PL63,Pomorskie,2011,2456
+Poland,PL71,Łódzkie,2011,384
+Poland,PL82,Podkarpackie,2011,491
+Poland,PL91,Warszawski stołeczny,2011,9351
+Portugal,PT11,Norte,2011,6005
+Portugal,PT15,Algarve,2011,5617
+Portugal,PT16,Centro (PT),2011,-
+Portugal,PT17,Área Metropolitana de Lisboa,2011,14807
+Portugal,PT18,Alentejo,2011,2
+Portugal,PT20,Região Autónoma dos Açores,2011,1114
+Portugal,PT30,Região Autónoma da Madeira,2011,2376
+Romania,RO11,Nord-Vest,2011,1005
+Romania,RO12,Centru,2011,177
+Romania,RO21,Nord-Est,2011,294
+Romania,RO22,Sud-Est,2011,-
+Romania,RO32,București-Ilfov,2011,7419
+Romania,RO41,Sud-Vest Oltenia,2011,-
+Romania,RO42,Vest,2011,1228
+Sweden,SE11,Stockholm,2011,21241
+Sweden,SE12,Östra Mellansverige,2011,2726
+Sweden,SE21,Småland med öarna,2011,696
+Sweden,SE22,Sydsverige,2011,2570
+Sweden,SE23,Västsverige,2011,5679
+Sweden,SE31,Norra Mellansverige,2011,109
+Sweden,SE32,Mellersta Norrland,2011,660
+Sweden,SE33,Övre Norrland,2011,2444
+Slovenia,SI04,Zahodna Slovenija,2011,1359
+Slovakia,SK01,Bratislavský kraj,2011,1577
+Slovakia,SK04,Východné Slovensko,2011,264
+United Kingdom,UKC1,Tees Valley and Durham,2011,190
+United Kingdom,UKC2,Northumberland and Tyne and Wear,2011,4336
+United Kingdom,UKD3,Greater Manchester,2011,18804
+United Kingdom,UKD4,Lancashire,2011,236
+United Kingdom,UKD7,Merseyside,2011,5246
+United Kingdom,UKE1,East Yorkshire and Northern Lincolnshire,2011,273
+United Kingdom,UKE3,South Yorkshire,2011,822
+United Kingdom,UKE4,West Yorkshire,2011,2910
+United Kingdom,UKF2,"Leicestershire, Rutland and Northamptonshire",2011,4208
+United Kingdom,UKG1,"Herefordshire, Worcestershire and Warwickshire",2011,0
+United Kingdom,UKG3,West Midlands,2011,8606
+United Kingdom,UKH1,East Anglia,2011,414
+United Kingdom,UKH2,Bedfordshire and Hertfordshire,2011,9510
+United Kingdom,UKH3,Essex,2011,18086
+United Kingdom,UKI4,Inner London — East,2011,2942
+United Kingdom,UKI6,Outer London — South,2011,-
+United Kingdom,UKI7,Outer London — West and North West,2011,69388
+United Kingdom,UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",2011,2
+United Kingdom,UKJ2,"Surrey, East and West Sussex",2011,33638
+United Kingdom,UKJ3,Hampshire and Isle of Wight,2011,1762
+United Kingdom,UKJ4,Kent,2011,37
+United Kingdom,UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",2011,5782
+United Kingdom,UKK2,Dorset and Somerset,2011,612
+United Kingdom,UKK3,Cornwall and Isles of Scilly,2011,-
+United Kingdom,UKK4,Devon,2011,707
+United Kingdom,UKL2,East Wales,2011,1208
+United Kingdom,UKM5,North Eastern Scotland,2011,3083
+United Kingdom,UKM6,Highlands and Islands,2011,1306
+United Kingdom,UKM7,Eastern Scotland,2011,9445
+United Kingdom,UKM8,West Central Scotland,2011,6858
+United Kingdom,UKM9,Southern Scotland,2011,1296
+United Kingdom,UKN0,Northern Ireland,2011,6900
+United Kingdom,UKZZ,Extra-Regio NUTS 2,2011,205
+Austria,AT12,Niederösterreich,2012,22196
+Austria,AT21,Kärnten,2012,277
+Austria,AT22,Steiermark,2012,915
+Austria,AT31,Oberösterreich,2012,611
+Austria,AT32,Salzburg,2012,1663
+Austria,AT33,Tirol,2012,930
+Belgium,BE21,Prov. (2) Antwerpen,2012,110
+Belgium,BE24,Prov. Vlaams-Brabant,2012,18815
+Belgium,BE25,Prov. West-Vlaanderen,2012,204
+Belgium,BE32,Prov. Hainaut,2012,6506
+Belgium,BE33,Prov. Liège,2012,296
+Bulgaria,BG33,Североизточен,2012,1210
+Bulgaria,BG34,Югоизточен,2012,2357
+Bulgaria,BG41,Югозападен,2012,3456
+,CH01,,2012,13790
+,CH02,,2012,258
+,CH04,,2012,24788
+,CH05,,2012,116
+,CH07,,2012,167
+Cyprus,CY00,Κύπρος,2012,7328
+Czechia,CZ01,Praha,2012,10774
+Czechia,CZ04,Severozápad,2012,101
+Czechia,CZ05,Severovýchod,2012,124
+Czechia,CZ06,Jihovýchod,2012,498
+Czechia,CZ08,Moravskoslezsko,2012,246
+Germany,DE11,Stuttgart,2012,9677
+Germany,DE12,Karlsruhe,2012,1278
+Germany,DE13,Freiburg,2012,-
+Germany,DE14,Tübingen,2012,507
+Germany,DE21,Oberbayern,2012,38186
+Germany,DE22,Niederbayern,2012,-
+Germany,DE24,Oberfranken,2012,-
+Germany,DE25,Mittelfranken,2012,3569
+Germany,DE27,Schwaben,2012,867
+Germany,DE30,Berlin,2012,18148
+Germany,DE40,Brandenburg,2012,7081
+Germany,DE50,Bremen,2012,2442
+Germany,DE60,Hamburg,2012,13675
+Germany,DE71,Darmstadt,2012,57261
+Germany,DE73,Kassel,2012,-
+Germany,DE80,Mecklenburg-Vorpommern,2012,146
+Germany,DE91,Braunschweig,2012,-
+Germany,DE92,Hannover,2012,5261
+Germany,DE94,Weser-Ems,2012,-
+Germany,DEA1,Düsseldorf,2012,23005
+Germany,DEA2,Köln,2012,9256
+Germany,DEA3,Münster,2012,1002
+Germany,DEA4,Detmold,2012,861
+Germany,DEA5,Arnsberg,2012,1892
+Germany,DEB1,Koblenz,2012,2651
+Germany,DEB2,Trier,2012,-
+Germany,DEB3,Rheinhessen-Pfalz,2012,225
+Germany,DEC0,Saarland,2012,386
+Germany,DED2,Dresden,2012,1869
+Germany,DED5,Leipzig,2012,2088
+Germany,DEE0,Sachsen-Anhalt,2012,-
+Germany,DEF0,Schleswig-Holstein,2012,499
+Germany,DEG0,Thüringen,2012,171
+Germany,DEZZ,Extra-Regio NUTS 2,2012,-
+Denmark,DK01,Hovedstaden,2012,23252
+Denmark,DK02,Sjælland,2012,10
+Denmark,DK03,Syddanmark,2012,2793
+Denmark,DK04,Midtjylland,2012,638
+Denmark,DK05,Nordjylland,2012,1301
+Estonia,EE00,Eesti,2012,2202
+Greece,EL30,Αττική,2012,12936
+Greece,EL41,Βόρειο Αιγαίο,2012,1115
+Greece,EL42,Νότιο Αιγαίο,2012,7335
+Greece,EL43,Κρήτη,2012,7006
+Greece,EL51,"Ανατολική Μακεδονία, Θράκη",2012,432
+Greece,EL52,Κεντρική Μακεδονία,2012,4075
+Greece,EL53,Δυτική Μακεδονία,2012,11
+Greece,EL54,Ήπειρος,2012,71
+Greece,EL61,Θεσσαλία,2012,351
+Greece,EL62,Ιόνια Νησιά,2012,3202
+Greece,EL63,Δυτική Ελλάδα,2012,441
+Greece,EL64,Στερεά Ελλάδα,2012,15
+Greece,EL65,Πελοπόννησος,2012,109
+Spain,ES11,Galicia,2012,3856
+Spain,ES12,Principado de Asturias,2012,1306
+Spain,ES13,Cantabria,2012,1115
+Spain,ES21,País Vasco,2012,4437
+Spain,ES22,Comunidad Foral de Navarra,2012,181
+Spain,ES24,Aragón,2012,550
+Spain,ES30,Comunidad de Madrid,2012,45124
+Spain,ES41,Castilla y León,2012,372
+Spain,ES51,Cataluña,2012,38810
+Spain,ES52,Comunidad Valenciana,2012,13573
+Spain,ES53,Illes Balears,2012,30067
+Spain,ES61,Andalucía,2012,19035
+Spain,ES62,Región de Murcia,2012,1181
+Spain,ES64,Ciudad Autónoma de Melilla,2012,306
+Spain,ES70,Canarias,2012,29429
+Finland,FI19,Länsi-Suomi,2012,1133
+Finland,FI1B,Helsinki-Uusimaa,2012,14851
+Finland,FI1C,Etelä-Suomi,2012,548
+Finland,FI1D,Pohjois- ja Itä-Suomi,2012,2589
+Finland,FI20,Åland,2012,55
+Finland,FIZZ,Extra-Regio NUTS 2,2012,-
+France,FR10,Île-de-France,2012,88566
+France,FRB0,Centre-Val de Loire,2012,167
+France,FRC1,Bourgogne,2012,-
+France,FRD1,Basse-Normandie,2012,-
+France,FRD2,Haute-Normandie,2012,-
+France,FRE1,Nord-Pas-de-Calais,2012,1366
+France,FRE2,Picardie,2012,3863
+France,FRF1,Alsace,2012,6483
+France,FRF2,Champagne-Ardenne,2012,86
+France,FRF3,Lorraine,2012,256
+France,FRG0,Pays-de-la-Loire,2012,3562
+France,FRH0,Bretagne,2012,1672
+France,FRI1,Aquitaine,2012,6307
+France,FRI2,Limousin,2012,305
+France,FRI3,Poitou-Charentes,2012,235
+France,FRJ1,Languedoc-Roussillon,2012,2432
+France,FRJ2,Midi-Pyrénées,2012,8077
+France,FRK1,Auvergne,2012,375
+France,FRK2,Rhône-Alpes,2012,8904
+France,FRL0,Provence-Alpes-Côte d’Azur,2012,19924
+France,FRM0,Corse,2012,2988
+France,FRY1,Guadeloupe,2012,1974
+France,FRY2,Martinique,2012,1565
+France,FRY3,Guyane,2012,416
+France,FRY4,La Réunion,2012,1998
+France,FRY5,Mayotte,2012,-
+Croatia,HR03,Jadranska Hrvatska,2012,3555
+Croatia,HR04,Kontinentalna Hrvatska,2012,2317
+Hungary,HU11,Budapest,2012,8430
+Hungary,HU32,Észak-Alföld,2012,-
+Ireland,IE04,Northern and Western,2012,677
+Ireland,IE05,Southern,2012,3869
+Ireland,IE06,Eastern and Midland,2012,19078
+,IS00,,2012,2741
+Italy,ITC1,Piemonte,2012,3740
+Italy,ITC3,Liguria,2012,1369
+Italy,ITC4,Lombardia,2012,36400
+Italy,ITF1,Abruzzo,2012,559
+Italy,ITF3,Campania,2012,5758
+Italy,ITF4,Puglia,2012,5860
+Italy,ITF6,Calabria,2012,2769
+Italy,ITG1,Sicilia,2012,12427
+Italy,ITG2,Sardegna,2012,6935
+Italy,ITH1,Provincia Autonoma di Bolzano/Bozen (1),2012,37
+Italy,ITH3,Veneto,2012,13635
+Italy,ITH4,Friuli-Venezia Giulia,2012,877
+Italy,ITH5,Emilia-Romagna,2012,7100
+Italy,ITI1,Toscana,2012,6322
+Italy,ITI2,Umbria,2012,196
+Italy,ITI3,Marche,2012,553
+Italy,ITI4,Lazio,2012,41201
+Lithuania,LT01,Sostinės regionas,2012,2206
+Lithuania,LT02,Vidurio ir vakarų Lietuvos regionas,2012,960
+Luxembourg,LU00,Luxembourg,2012,1894
+Latvia,LV00,Latvija,2012,4755
+Malta,MT00,Malta,2012,3650
+Netherlands,NL13,Drenthe,2012,182
+Netherlands,NL32,Noord-Holland,2012,50988
+Netherlands,NL33,Zuid-Holland,2012,1193
+Netherlands,NL41,Noord-Brabant,2012,3009
+Netherlands,NL42,Limburg (NL),2012,309
+,NO01,,2012,22176
+,NO02,,2012,-
+,NO03,,2012,3412
+,NO04,,2012,5818
+,NO05,,2012,6953
+,NO06,,2012,4194
+,NO07,,2012,4374
+Poland,PL21,Małopolskie,2012,3409
+Poland,PL22,Śląskie,2012,2526
+Poland,PL41,Wielkopolskie,2012,1560
+Poland,PL42,Zachodniopomorskie,2012,348
+Poland,PL51,Dolnośląskie,2012,1942
+Poland,PL61,Kujawsko-pomorskie,2012,338
+Poland,PL63,Pomorskie,2012,2781
+Poland,PL71,Łódzkie,2012,463
+Poland,PL82,Podkarpackie,2012,564
+Poland,PL91,Warszawski stołeczny,2012,9605
+Portugal,PT11,Norte,2012,6053
+Portugal,PT15,Algarve,2012,5674
+Portugal,PT16,Centro (PT),2012,-
+Portugal,PT17,Área Metropolitana de Lisboa,2012,15316
+Portugal,PT18,Alentejo,2012,1
+Portugal,PT20,Região Autónoma dos Açores,2012,1278
+Portugal,PT30,Região Autónoma da Madeira,2012,2271
+Romania,RO11,Nord-Vest,2012,928
+Romania,RO12,Centru,2012,176
+Romania,RO21,Nord-Est,2012,394
+Romania,RO22,Sud-Est,2012,-
+Romania,RO32,București-Ilfov,2012,7509
+Romania,RO41,Sud-Vest Oltenia,2012,-
+Romania,RO42,Vest,2012,1043
+Sweden,SE11,Stockholm,2012,21983
+Sweden,SE12,Östra Mellansverige,2012,2476
+Sweden,SE21,Småland med öarna,2012,707
+Sweden,SE22,Sydsverige,2012,2729
+Sweden,SE23,Västsverige,2012,5669
+Sweden,SE31,Norra Mellansverige,2012,100
+Sweden,SE32,Mellersta Norrland,2012,666
+Sweden,SE33,Övre Norrland,2012,2548
+Slovenia,SI04,Zahodna Slovenija,2012,1168
+Slovakia,SK01,Bratislavský kraj,2012,1358
+Slovakia,SK04,Východné Slovensko,2012,234
+United Kingdom,UKC1,Tees Valley and Durham,2012,165
+United Kingdom,UKC2,Northumberland and Tyne and Wear,2012,4355
+United Kingdom,UKD3,Greater Manchester,2012,19654
+United Kingdom,UKD4,Lancashire,2012,235
+United Kingdom,UKD7,Merseyside,2012,4458
+United Kingdom,UKE1,East Yorkshire and Northern Lincolnshire,2012,234
+United Kingdom,UKE3,South Yorkshire,2012,693
+United Kingdom,UKE4,West Yorkshire,2012,2969
+United Kingdom,UKF2,"Leicestershire, Rutland and Northamptonshire",2012,4068
+United Kingdom,UKG1,"Herefordshire, Worcestershire and Warwickshire",2012,0
+United Kingdom,UKG3,West Midlands,2012,8916
+United Kingdom,UKH1,East Anglia,2012,399
+United Kingdom,UKH2,Bedfordshire and Hertfordshire,2012,9614
+United Kingdom,UKH3,Essex,2012,18078
+United Kingdom,UKI4,Inner London — East,2012,3017
+United Kingdom,UKI6,Outer London — South,2012,-
+United Kingdom,UKI7,Outer London — West and North West,2012,69983
+United Kingdom,UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",2012,6
+United Kingdom,UKJ2,"Surrey, East and West Sussex",2012,34213
+United Kingdom,UKJ3,Hampshire and Isle of Wight,2012,1693
+United Kingdom,UKJ4,Kent,2012,9
+United Kingdom,UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",2012,5931
+United Kingdom,UKK2,Dorset and Somerset,2012,690
+United Kingdom,UKK3,Cornwall and Isles of Scilly,2012,-
+United Kingdom,UKK4,Devon,2012,695
+United Kingdom,UKL2,East Wales,2012,1013
+United Kingdom,UKM5,North Eastern Scotland,2012,3329
+United Kingdom,UKM6,Highlands and Islands,2012,1324
+United Kingdom,UKM7,Eastern Scotland,2012,9248
+United Kingdom,UKM8,West Central Scotland,2012,7150
+United Kingdom,UKM9,Southern Scotland,2012,1067
+United Kingdom,UKN0,Northern Ireland,2012,6957
+United Kingdom,UKZZ,Extra-Regio NUTS 2,2012,166
+Austria,AT12,Niederösterreich,2013,22041
+Austria,AT21,Kärnten,2013,256
+Austria,AT22,Steiermark,2013,875
+Austria,AT31,Oberösterreich,2013,545
+Austria,AT32,Salzburg,2013,1667
+Austria,AT33,Tirol,2013,981
+Belgium,BE21,Prov. (2) Antwerpen,2013,110
+Belgium,BE24,Prov. Vlaams-Brabant,2013,18985
+Belgium,BE25,Prov. West-Vlaanderen,2013,220
+Belgium,BE32,Prov. Hainaut,2013,6776
+Belgium,BE33,Prov. Liège,2013,310
+Bulgaria,BG33,Североизточен,2013,1302
+Bulgaria,BG34,Югоизточен,2013,2461
+Bulgaria,BG41,Югозападен,2013,3497
+,CH01,,2013,14330
+,CH02,,2013,245
+,CH04,,2013,24853
+,CH05,,2013,86
+,CH07,,2013,143
+Cyprus,CY00,Κύπρος,2013,7011
+Czechia,CZ01,Praha,2013,10950
+Czechia,CZ04,Severozápad,2013,101
+Czechia,CZ05,Severovýchod,2013,179
+Czechia,CZ06,Jihovýchod,2013,433
+Czechia,CZ08,Moravskoslezsko,2013,229
+Germany,DE11,Stuttgart,2013,9545
+Germany,DE12,Karlsruhe,2013,1054
+Germany,DE13,Freiburg,2013,-
+Germany,DE14,Tübingen,2013,497
+Germany,DE21,Oberbayern,2013,38518
+Germany,DE22,Niederbayern,2013,-
+Germany,DE24,Oberfranken,2013,-
+Germany,DE25,Mittelfranken,2013,3294
+Germany,DE27,Schwaben,2013,837
+Germany,DE30,Berlin,2013,19576
+Germany,DE40,Brandenburg,2013,6712
+Germany,DE50,Bremen,2013,2606
+Germany,DE60,Hamburg,2013,13482
+Germany,DE71,Darmstadt,2013,57878
+Germany,DE73,Kassel,2013,-
+Germany,DE80,Mecklenburg-Vorpommern,2013,122
+Germany,DE91,Braunschweig,2013,-
+Germany,DE92,Hannover,2013,5209
+Germany,DE94,Weser-Ems,2013,-
+Germany,DEA1,Düsseldorf,2013,23672
+Germany,DEA2,Köln,2013,9051
+Germany,DEA3,Münster,2013,842
+Germany,DEA4,Detmold,2013,784
+Germany,DEA5,Arnsberg,2013,1916
+Germany,DEB1,Koblenz,2013,2585
+Germany,DEB2,Trier,2013,-
+Germany,DEB3,Rheinhessen-Pfalz,2013,209
+Germany,DEC0,Saarland,2013,354
+Germany,DED2,Dresden,2013,1742
+Germany,DED5,Leipzig,2013,2129
+Germany,DEE0,Sachsen-Anhalt,2013,-
+Germany,DEF0,Schleswig-Holstein,2013,505
+Germany,DEG0,Thüringen,2013,206
+Germany,DEZZ,Extra-Regio NUTS 2,2013,-
+Denmark,DK01,Hovedstaden,2013,23973
+Denmark,DK02,Sjælland,2013,10
+Denmark,DK03,Syddanmark,2013,2911
+Denmark,DK04,Midtjylland,2013,588
+Denmark,DK05,Nordjylland,2013,1381
+Estonia,EE00,Eesti,2013,1959
+Greece,EL30,Αττική,2013,12534
+Greece,EL41,Βόρειο Αιγαίο,2013,1067
+Greece,EL42,Νότιο Αιγαίο,2013,8156
+Greece,EL43,Κρήτη,2013,7951
+Greece,EL51,"Ανατολική Μακεδονία, Θράκη",2013,391
+Greece,EL52,Κεντρική Μακεδονία,2013,4111
+Greece,EL53,Δυτική Μακεδονία,2013,12
+Greece,EL54,Ήπειρος,2013,64
+Greece,EL61,Θεσσαλία,2013,358
+Greece,EL62,Ιόνια Νησιά,2013,3571
+Greece,EL63,Δυτική Ελλάδα,2013,470
+Greece,EL64,Στερεά Ελλάδα,2013,20
+Greece,EL65,Πελοπόννησος,2013,141
+Spain,ES11,Galicia,2013,3580
+Spain,ES12,Principado de Asturias,2013,1034
+Spain,ES13,Cantabria,2013,973
+Spain,ES21,País Vasco,2013,4034
+Spain,ES22,Comunidad Foral de Navarra,2013,150
+Spain,ES24,Aragón,2013,458
+Spain,ES30,Comunidad de Madrid,2013,39661
+Spain,ES41,Castilla y León,2013,254
+Spain,ES51,Cataluña,2013,38857
+Spain,ES52,Comunidad Valenciana,2013,14212
+Spain,ES53,Illes Balears,2013,30433
+Spain,ES61,Andalucía,2013,18568
+Spain,ES62,Región de Murcia,2013,1139
+Spain,ES64,Ciudad Autónoma de Melilla,2013,280
+Spain,ES70,Canarias,2013,29540
+Finland,FI19,Länsi-Suomi,2013,932
+Finland,FI1B,Helsinki-Uusimaa,2013,15271
+Finland,FI1C,Etelä-Suomi,2013,422
+Finland,FI1D,Pohjois- ja Itä-Suomi,2013,2324
+Finland,FI20,Åland,2013,52
+Finland,FIZZ,Extra-Regio NUTS 2,2013,-
+France,FR10,Île-de-France,2013,90139
+France,FRB0,Centre-Val de Loire,2013,180
+France,FRC1,Bourgogne,2013,-
+France,FRD1,Basse-Normandie,2013,-
+France,FRD2,Haute-Normandie,2013,-
+France,FRE1,Nord-Pas-de-Calais,2013,1646
+France,FRE2,Picardie,2013,3952
+France,FRF1,Alsace,2013,6994
+France,FRF2,Champagne-Ardenne,2013,99
+France,FRF3,Lorraine,2013,234
+France,FRG0,Pays-de-la-Loire,2013,3853
+France,FRH0,Bretagne,2013,1626
+France,FRI1,Aquitaine,2013,6592
+France,FRI2,Limousin,2013,298
+France,FRI3,Poitou-Charentes,2013,215
+France,FRJ1,Languedoc-Roussillon,2013,2639
+France,FRJ2,Midi-Pyrénées,2013,8054
+France,FRK1,Auvergne,2013,416
+France,FRK2,Rhône-Alpes,2013,9053
+France,FRL0,Provence-Alpes-Côte d’Azur,2013,20330
+France,FRM0,Corse,2013,3211
+France,FRY1,Guadeloupe,2013,2022
+France,FRY2,Martinique,2013,1623
+France,FRY3,Guyane,2013,420
+France,FRY4,La Réunion,2013,1981
+France,FRY5,Mayotte,2013,-
+Croatia,HR03,Jadranska Hrvatska,2013,3864
+Croatia,HR04,Kontinentalna Hrvatska,2013,2286
+Hungary,HU11,Budapest,2013,8441
+Hungary,HU32,Észak-Alföld,2013,-
+Ireland,IE04,Northern and Western,2013,666
+Ireland,IE05,Southern,2013,3835
+Ireland,IE06,Eastern and Midland,2013,20136
+,IS00,,2013,3199
+Italy,ITC1,Piemonte,2013,3435
+Italy,ITC3,Liguria,2013,1295
+Italy,ITC4,Lombardia,2013,35725
+Italy,ITF1,Abruzzo,2013,542
+Italy,ITF3,Campania,2013,5400
+Italy,ITF4,Puglia,2013,5574
+Italy,ITF6,Calabria,2013,2733
+Italy,ITG1,Sicilia,2013,12722
+Italy,ITG2,Sardegna,2013,7101
+Italy,ITH1,Provincia Autonoma di Bolzano/Bozen (1),2013,-
+Italy,ITH3,Veneto,2013,13230
+Italy,ITH4,Friuli-Venezia Giulia,2013,848
+Italy,ITH5,Emilia-Romagna,2013,6918
+Italy,ITI1,Toscana,2013,6435
+Italy,ITI2,Umbria,2013,212
+Italy,ITI3,Marche,2013,494
+Italy,ITI4,Lazio,2013,40655
+Lithuania,LT01,Sostinės regionas,2013,2657
+Lithuania,LT02,Vidurio ir vakarų Lietuvos regionas,2013,825
+Luxembourg,LU00,Luxembourg,2013,2169
+Latvia,LV00,Latvija,2013,4782
+Malta,MT00,Malta,2013,4032
+Netherlands,NL13,Drenthe,2013,177
+Netherlands,NL32,Noord-Holland,2013,52543
+Netherlands,NL33,Zuid-Holland,2013,1494
+Netherlands,NL41,Noord-Brabant,2013,3430
+Netherlands,NL42,Limburg (NL),2013,433
+,NO01,,2013,23035
+,NO02,,2013,-
+,NO03,,2013,3695
+,NO04,,2013,6178
+,NO05,,2013,7478
+,NO06,,2013,4343
+,NO07,,2013,4508
+Poland,PL21,Małopolskie,2013,3633
+Poland,PL22,Śląskie,2013,2545
+Poland,PL41,Wielkopolskie,2013,1329
+Poland,PL42,Zachodniopomorskie,2013,320
+Poland,PL51,Dolnośląskie,2013,1873
+Poland,PL61,Kujawsko-pomorskie,2013,341
+Poland,PL63,Pomorskie,2013,2790
+Poland,PL71,Łódzkie,2013,354
+Poland,PL82,Podkarpackie,2013,588
+Poland,PL91,Warszawski stołeczny,2013,10694
+Portugal,PT11,Norte,2013,6374
+Portugal,PT15,Algarve,2013,5983
+Portugal,PT16,Centro (PT),2013,-
+Portugal,PT17,Área Metropolitana de Lisboa,2013,16030
+Portugal,PT18,Alentejo,2013,2
+Portugal,PT20,Região Autónoma dos Açores,2013,1315
+Portugal,PT30,Região Autónoma da Madeira,2013,2438
+Romania,RO11,Nord-Vest,2013,1035
+Romania,RO12,Centru,2013,545
+Romania,RO21,Nord-Est,2013,536
+Romania,RO22,Sud-Est,2013,-
+Romania,RO32,București-Ilfov,2013,7607
+Romania,RO41,Sud-Vest Oltenia,2013,-
+Romania,RO42,Vest,2013,755
+Sweden,SE11,Stockholm,2013,22956
+Sweden,SE12,Östra Mellansverige,2013,2325
+Sweden,SE21,Småland med öarna,2013,737
+Sweden,SE22,Sydsverige,2013,2753
+Sweden,SE23,Västsverige,2013,5867
+Sweden,SE31,Norra Mellansverige,2013,110
+Sweden,SE32,Mellersta Norrland,2013,681
+Sweden,SE33,Övre Norrland,2013,2604
+Slovenia,SI04,Zahodna Slovenija,2013,1266
+Slovakia,SK01,Bratislavský kraj,2013,1340
+Slovakia,SK04,Východné Slovensko,2013,236
+United Kingdom,UKC1,Tees Valley and Durham,2013,159
+United Kingdom,UKC2,Northumberland and Tyne and Wear,2013,4415
+United Kingdom,UKD3,Greater Manchester,2013,20680
+United Kingdom,UKD4,Lancashire,2013,263
+United Kingdom,UKD7,Merseyside,2013,4186
+United Kingdom,UKE1,East Yorkshire and Northern Lincolnshire,2013,235
+United Kingdom,UKE3,South Yorkshire,2013,690
+United Kingdom,UKE4,West Yorkshire,2013,3314
+United Kingdom,UKF2,"Leicestershire, Rutland and Northamptonshire",2013,4327
+United Kingdom,UKG1,"Herefordshire, Worcestershire and Warwickshire",2013,0
+United Kingdom,UKG3,West Midlands,2013,9114
+United Kingdom,UKH1,East Anglia,2013,472
+United Kingdom,UKH2,Bedfordshire and Hertfordshire,2013,9693
+United Kingdom,UKH3,Essex,2013,18814
+United Kingdom,UKI4,Inner London — East,2013,3380
+United Kingdom,UKI6,Outer London — South,2013,0
+United Kingdom,UKI7,Outer London — West and North West,2013,72332
+United Kingdom,UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",2013,7
+United Kingdom,UKJ2,"Surrey, East and West Sussex",2013,35427
+United Kingdom,UKJ3,Hampshire and Isle of Wight,2013,1722
+United Kingdom,UKJ4,Kent,2013,41
+United Kingdom,UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",2013,6139
+United Kingdom,UKK2,Dorset and Somerset,2013,659
+United Kingdom,UKK3,Cornwall and Isles of Scilly,2013,-
+United Kingdom,UKK4,Devon,2013,738
+United Kingdom,UKL2,East Wales,2013,1057
+United Kingdom,UKM5,North Eastern Scotland,2013,3440
+United Kingdom,UKM6,Highlands and Islands,2013,1433
+United Kingdom,UKM7,Eastern Scotland,2013,9802
+United Kingdom,UKM8,West Central Scotland,2013,7358
+United Kingdom,UKM9,Southern Scotland,2013,1145
+United Kingdom,UKN0,Northern Ireland,2013,6949
+United Kingdom,UKZZ,Extra-Regio NUTS 2,2013,175
+Austria,AT12,Niederösterreich,2014,22473
+Austria,AT21,Kärnten,2014,226
+Austria,AT22,Steiermark,2014,889
+Austria,AT31,Oberösterreich,2014,553
+Austria,AT32,Salzburg,2014,1823
+Austria,AT33,Tirol,2014,988
+Belgium,BE21,Prov. (2) Antwerpen,2014,84
+Belgium,BE24,Prov. Vlaams-Brabant,2014,21754
+Belgium,BE25,Prov. West-Vlaanderen,2014,226
+Belgium,BE32,Prov. Hainaut,2014,6425
+Belgium,BE33,Prov. Liège,2014,298
+Bulgaria,BG33,Североизточен,2014,1372
+Bulgaria,BG34,Югоизточен,2014,2508
+Bulgaria,BG41,Югозападен,2014,3808
+,CH01,,2014,15059
+,CH02,,2014,178
+,CH04,,2014,25451
+,CH05,,2014,84
+,CH07,,2014,136
+Cyprus,CY00,Κύπρος,2014,7329
+Czechia,CZ01,Praha,2014,11130
+Czechia,CZ04,Severozápad,2014,82
+Czechia,CZ05,Severovýchod,2014,145
+Czechia,CZ06,Jihovýchod,2014,457
+Czechia,CZ08,Moravskoslezsko,2014,266
+Germany,DE11,Stuttgart,2014,9689
+Germany,DE12,Karlsruhe,2014,947
+Germany,DE13,Freiburg,2014,-
+Germany,DE14,Tübingen,2014,550
+Germany,DE21,Oberbayern,2014,39571
+Germany,DE22,Niederbayern,2014,-
+Germany,DE24,Oberfranken,2014,-
+Germany,DE25,Mittelfranken,2014,3237
+Germany,DE27,Schwaben,2014,747
+Germany,DE30,Berlin,2014,20669
+Germany,DE40,Brandenburg,2014,7274
+Germany,DE50,Bremen,2014,2768
+Germany,DE60,Hamburg,2014,14739
+Germany,DE71,Darmstadt,2014,59414
+Germany,DE73,Kassel,2014,-
+Germany,DE80,Mecklenburg-Vorpommern,2014,111
+Germany,DE91,Braunschweig,2014,-
+Germany,DE92,Hannover,2014,5266
+Germany,DE94,Weser-Ems,2014,-
+Germany,DEA1,Düsseldorf,2014,23624
+Germany,DEA2,Köln,2014,9418
+Germany,DEA3,Münster,2014,878
+Germany,DEA4,Detmold,2014,757
+Germany,DEA5,Arnsberg,2014,1954
+Germany,DEB1,Koblenz,2014,2380
+Germany,DEB2,Trier,2014,-
+Germany,DEB3,Rheinhessen-Pfalz,2014,201
+Germany,DEC0,Saarland,2014,351
+Germany,DED2,Dresden,2014,1738
+Germany,DED5,Leipzig,2014,2295
+Germany,DEE0,Sachsen-Anhalt,2014,-
+Germany,DEF0,Schleswig-Holstein,2014,318
+Germany,DEG0,Thüringen,2014,219
+Germany,DEZZ,Extra-Regio NUTS 2,2014,-
+Denmark,DK01,Hovedstaden,2014,25536
+Denmark,DK02,Sjælland,2014,7
+Denmark,DK03,Syddanmark,2014,2961
+Denmark,DK04,Midtjylland,2014,545
+Denmark,DK05,Nordjylland,2014,1377
+Estonia,EE00,Eesti,2014,2020
+Greece,EL30,Αττική,2014,15207
+Greece,EL41,Βόρειο Αιγαίο,2014,1202
+Greece,EL42,Νότιο Αιγαίο,2014,9210
+Greece,EL43,Κρήτη,2014,8565
+Greece,EL51,"Ανατολική Μακεδονία, Θράκη",2014,407
+Greece,EL52,Κεντρική Μακεδονία,2014,5021
+Greece,EL53,Δυτική Μακεδονία,2014,9
+Greece,EL54,Ήπειρος,2014,79
+Greece,EL61,Θεσσαλία,2014,402
+Greece,EL62,Ιόνια Νησιά,2014,4081
+Greece,EL63,Δυτική Ελλάδα,2014,519
+Greece,EL64,Στερεά Ελλάδα,2014,13
+Greece,EL65,Πελοπόννησος,2014,242
+Spain,ES11,Galicia,2014,3738
+Spain,ES12,Principado de Asturias,2014,1063
+Spain,ES13,Cantabria,2014,815
+Spain,ES21,País Vasco,2014,4227
+Spain,ES22,Comunidad Foral de Navarra,2014,135
+Spain,ES24,Aragón,2014,417
+Spain,ES30,Comunidad de Madrid,2014,41541
+Spain,ES41,Castilla y León,2014,218
+Spain,ES51,Cataluña,2014,40404
+Spain,ES52,Comunidad Valenciana,2014,14639
+Spain,ES53,Illes Balears,2014,31306
+Spain,ES61,Andalucía,2014,19635
+Spain,ES62,Región de Murcia,2014,1094
+Spain,ES64,Ciudad Autónoma de Melilla,2014,305
+Spain,ES70,Canarias,2014,31680
+Finland,FI19,Länsi-Suomi,2014,887
+Finland,FI1B,Helsinki-Uusimaa,2014,15945
+Finland,FI1C,Etelä-Suomi,2014,387
+Finland,FI1D,Pohjois- ja Itä-Suomi,2014,2414
+Finland,FI20,Åland,2014,52
+Finland,FIZZ,Extra-Regio NUTS 2,2014,-
+France,FR10,Île-de-France,2014,92491
+France,FRB0,Centre-Val de Loire,2014,183
+France,FRC1,Bourgogne,2014,-
+France,FRD1,Basse-Normandie,2014,-
+France,FRD2,Haute-Normandie,2014,-
+France,FRE1,Nord-Pas-de-Calais,2014,1572
+France,FRE2,Picardie,2014,4023
+France,FRF1,Alsace,2014,7653
+France,FRF2,Champagne-Ardenne,2014,96
+France,FRF3,Lorraine,2014,240
+France,FRG0,Pays-de-la-Loire,2014,4096
+France,FRH0,Bretagne,2014,1610
+France,FRI1,Aquitaine,2014,6865
+France,FRI2,Limousin,2014,291
+France,FRI3,Poitou-Charentes,2014,211
+France,FRJ1,Languedoc-Roussillon,2014,2660
+France,FRJ2,Midi-Pyrénées,2014,8002
+France,FRK1,Auvergne,2014,416
+France,FRK2,Rhône-Alpes,2014,8942
+France,FRL0,Provence-Alpes-Côte d’Azur,2014,20329
+France,FRM0,Corse,2014,3338
+France,FRY1,Guadeloupe,2014,2014
+France,FRY2,Martinique,2014,1623
+France,FRY3,Guyane,2014,430
+France,FRY4,La Réunion,2014,1991
+France,FRY5,Mayotte,2014,301
+Croatia,HR03,Jadranska Hrvatska,2014,4145
+Croatia,HR04,Kontinentalna Hrvatska,2014,2418
+Hungary,HU11,Budapest,2014,9055
+Hungary,HU32,Észak-Alföld,2014,-
+Ireland,IE04,Northern and Western,2014,704
+Ireland,IE05,Southern,2014,3959
+Ireland,IE06,Eastern and Midland,2014,21686
+,IS00,,2014,3854
+Italy,ITC1,Piemonte,2014,3650
+Italy,ITC3,Liguria,2014,1259
+Italy,ITC4,Lombardia,2014,36400
+Italy,ITF1,Abruzzo,2014,553
+Italy,ITF3,Campania,2014,5891
+Italy,ITF4,Puglia,2014,5822
+Italy,ITF6,Calabria,2014,2917
+Italy,ITG1,Sicilia,2014,13854
+Italy,ITG2,Sardegna,2014,7350
+Italy,ITH1,Provincia Autonoma di Bolzano/Bozen (1),2014,-
+Italy,ITH3,Veneto,2014,13444
+Italy,ITH4,Friuli-Venezia Giulia,2014,736
+Italy,ITH5,Emilia-Romagna,2014,7191
+Italy,ITI1,Toscana,2014,6838
+Italy,ITI2,Umbria,2014,204
+Italy,ITI3,Marche,2014,472
+Italy,ITI4,Lazio,2014,43234
+Lithuania,LT01,Sostinės regionas,2014,2940
+Lithuania,LT02,Vidurio ir vakarų Lietuvos regionas,2014,858
+Luxembourg,LU00,Luxembourg,2014,2434
+Latvia,LV00,Latvija,2014,4802
+Malta,MT00,Malta,2014,4290
+Netherlands,NL13,Drenthe,2014,171
+Netherlands,NL32,Noord-Holland,2014,54957
+Netherlands,NL33,Zuid-Holland,2014,1631
+Netherlands,NL41,Noord-Brabant,2014,3961
+Netherlands,NL42,Limburg (NL),2014,244
+,NO01,,2014,24129
+,NO02,,2014,-
+,NO03,,2014,3544
+,NO04,,2014,6151
+,NO05,,2014,7509
+,NO06,,2014,4393
+,NO07,,2014,4676
+Poland,PL21,Małopolskie,2014,3808
+Poland,PL22,Śląskie,2014,2674
+Poland,PL41,Wielkopolskie,2014,1423
+Poland,PL42,Zachodniopomorskie,2014,302
+Poland,PL51,Dolnośląskie,2014,2038
+Poland,PL61,Kujawsko-pomorskie,2014,317
+Poland,PL63,Pomorskie,2014,3454
+Poland,PL71,Łódzkie,2014,254
+Poland,PL82,Podkarpackie,2014,599
+Poland,PL91,Warszawski stołeczny,2014,12287
+Portugal,PT11,Norte,2014,6933
+Portugal,PT15,Algarve,2014,6169
+Portugal,PT16,Centro (PT),2014,-
+Portugal,PT17,Área Metropolitana de Lisboa,2014,18159
+Portugal,PT18,Alentejo,2014,1
+Portugal,PT20,Região Autónoma dos Açores,2014,1274
+Portugal,PT30,Região Autónoma da Madeira,2014,2542
+Romania,RO11,Nord-Vest,2014,1179
+Romania,RO12,Centru,2014,560
+Romania,RO21,Nord-Est,2014,576
+Romania,RO22,Sud-Est,2014,-
+Romania,RO32,București-Ilfov,2014,8284
+Romania,RO41,Sud-Vest Oltenia,2014,-
+Romania,RO42,Vest,2014,733
+Sweden,SE11,Stockholm,2014,24809
+Sweden,SE12,Östra Mellansverige,2014,1870
+Sweden,SE21,Småland med öarna,2014,799
+Sweden,SE22,Sydsverige,2014,2699
+Sweden,SE23,Västsverige,2014,5968
+Sweden,SE31,Norra Mellansverige,2014,-
+Sweden,SE32,Mellersta Norrland,2014,740
+Sweden,SE33,Övre Norrland,2014,2761
+Slovenia,SI04,Zahodna Slovenija,2014,1307
+Slovakia,SK01,Bratislavský kraj,2014,1336
+Slovakia,SK04,Východné Slovensko,2014,355
+United Kingdom,UKC1,Tees Valley and Durham,2014,142
+United Kingdom,UKC2,Northumberland and Tyne and Wear,2014,4513
+United Kingdom,UKD3,Greater Manchester,2014,21950
+United Kingdom,UKD4,Lancashire,2014,224
+United Kingdom,UKD7,Merseyside,2014,3984
+United Kingdom,UKE1,East Yorkshire and Northern Lincolnshire,2014,237
+United Kingdom,UKE3,South Yorkshire,2014,724
+United Kingdom,UKE4,West Yorkshire,2014,3263
+United Kingdom,UKF2,"Leicestershire, Rutland and Northamptonshire",2014,4507
+United Kingdom,UKG1,"Herefordshire, Worcestershire and Warwickshire",2014,0
+United Kingdom,UKG3,West Midlands,2014,9691
+United Kingdom,UKH1,East Anglia,2014,480
+United Kingdom,UKH2,Bedfordshire and Hertfordshire,2014,10482
+United Kingdom,UKH3,Essex,2014,21036
+United Kingdom,UKI4,Inner London — East,2014,3648
+United Kingdom,UKI6,Outer London — South,2014,0
+United Kingdom,UKI7,Outer London — West and North West,2014,73371
+United Kingdom,UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",2014,1
+United Kingdom,UKJ2,"Surrey, East and West Sussex",2014,38090
+United Kingdom,UKJ3,Hampshire and Isle of Wight,2014,1830
+United Kingdom,UKJ4,Kent,2014,14
+United Kingdom,UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",2014,6348
+United Kingdom,UKK2,Dorset and Somerset,2014,660
+United Kingdom,UKK3,Cornwall and Isles of Scilly,2014,-
+United Kingdom,UKK4,Devon,2014,767
+United Kingdom,UKL2,East Wales,2014,1020
+United Kingdom,UKM5,North Eastern Scotland,2014,3725
+United Kingdom,UKM6,Highlands and Islands,2014,1480
+United Kingdom,UKM7,Eastern Scotland,2014,10181
+United Kingdom,UKM8,West Central Scotland,2014,7709
+United Kingdom,UKM9,Southern Scotland,2014,912
+United Kingdom,UKN0,Northern Ireland,2014,6937
+United Kingdom,UKZZ,Extra-Regio NUTS 2,2014,219
+Austria,AT12,Niederösterreich,2015,22740
+Austria,AT21,Kärnten,2015,230
+Austria,AT22,Steiermark,2015,956
+Austria,AT31,Oberösterreich,2015,523
+Austria,AT32,Salzburg,2015,1829
+Austria,AT33,Tirol,2015,1001
+Belgium,BE21,Prov. (2) Antwerpen,2015,195
+Belgium,BE24,Prov. Vlaams-Brabant,2015,23269
+Belgium,BE25,Prov. West-Vlaanderen,2015,260
+Belgium,BE32,Prov. Hainaut,2015,6945
+Belgium,BE33,Prov. Liège,2015,295
+Bulgaria,BG33,Североизточен,2015,1382
+Bulgaria,BG34,Югоизточен,2015,2334
+Bulgaria,BG41,Югозападен,2015,4057
+,CH01,,2015,15688
+,CH02,,2015,175
+,CH04,,2015,26249
+,CH05,,2015,92
+,CH07,,2015,156
+Cyprus,CY00,Κύπρος,2015,7591
+Czechia,CZ01,Praha,2015,11868
+Czechia,CZ04,Severozápad,2015,35
+Czechia,CZ05,Severovýchod,2015,54
+Czechia,CZ06,Jihovýchod,2015,436
+Czechia,CZ08,Moravskoslezsko,2015,280
+Germany,DE11,Stuttgart,2015,10487
+Germany,DE12,Karlsruhe,2015,1045
+Germany,DE13,Freiburg,2015,-
+Germany,DE14,Tübingen,2015,511
+Germany,DE21,Oberbayern,2015,40861
+Germany,DE22,Niederbayern,2015,-
+Germany,DE24,Oberfranken,2015,-
+Germany,DE25,Mittelfranken,2015,3352
+Germany,DE27,Schwaben,2015,869
+Germany,DE30,Berlin,2015,20995
+Germany,DE40,Brandenburg,2015,8509
+Germany,DE50,Bremen,2015,2657
+Germany,DE60,Hamburg,2015,15581
+Germany,DE71,Darmstadt,2015,60889
+Germany,DE73,Kassel,2015,-
+Germany,DE80,Mecklenburg-Vorpommern,2015,-
+Germany,DE91,Braunschweig,2015,-
+Germany,DE92,Hannover,2015,5432
+Germany,DE94,Weser-Ems,2015,-
+Germany,DEA1,Düsseldorf,2015,24357
+Germany,DEA2,Köln,2015,10313
+Germany,DEA3,Münster,2015,804
+Germany,DEA4,Detmold,2015,765
+Germany,DEA5,Arnsberg,2015,1973
+Germany,DEB1,Koblenz,2015,2597
+Germany,DEB2,Trier,2015,-
+Germany,DEB3,Rheinhessen-Pfalz,2015,-
+Germany,DEC0,Saarland,2015,433
+Germany,DED2,Dresden,2015,1712
+Germany,DED5,Leipzig,2015,2304
+Germany,DEE0,Sachsen-Anhalt,2015,-
+Germany,DEF0,Schleswig-Holstein,2015,264
+Germany,DEG0,Thüringen,2015,224
+Germany,DEZZ,Extra-Regio NUTS 2,2015,-
+Denmark,DK01,Hovedstaden,2015,26518
+Denmark,DK02,Sjælland,2015,8
+Denmark,DK03,Syddanmark,2015,2999
+Denmark,DK04,Midtjylland,2015,498
+Denmark,DK05,Nordjylland,2015,1417
+Estonia,EE00,Eesti,2015,2161
+Greece,EL30,Αττική,2015,18105
+Greece,EL41,Βόρειο Αιγαίο,2015,1265
+Greece,EL42,Νότιο Αιγαίο,2015,9643
+Greece,EL43,Κρήτη,2015,8840
+Greece,EL51,"Ανατολική Μακεδονία, Θράκη",2015,432
+Greece,EL52,Κεντρική Μακεδονία,2015,5397
+Greece,EL53,Δυτική Μακεδονία,2015,11
+Greece,EL54,Ήπειρος,2015,87
+Greece,EL61,Θεσσαλία,2015,401
+Greece,EL62,Ιόνια Νησιά,2015,4227
+Greece,EL63,Δυτική Ελλάδα,2015,550
+Greece,EL64,Στερεά Ελλάδα,2015,22
+Greece,EL65,Πελοπόννησος,2015,193
+Spain,ES11,Galicia,2015,4022
+Spain,ES12,Principado de Asturias,2015,1118
+Spain,ES13,Cantabria,2015,874
+Spain,ES21,País Vasco,2015,4517
+Spain,ES22,Comunidad Foral de Navarra,2015,144
+Spain,ES24,Aragón,2015,424
+Spain,ES30,Comunidad de Madrid,2015,46297
+Spain,ES41,Castilla y León,2015,212
+Spain,ES51,Cataluña,2015,41877
+Spain,ES52,Comunidad Valenciana,2015,15600
+Spain,ES53,Illes Balears,2015,32354
+Spain,ES61,Andalucía,2015,20807
+Spain,ES62,Región de Murcia,2015,1066
+Spain,ES64,Ciudad Autónoma de Melilla,2015,310
+Spain,ES70,Canarias,2015,32538
+Finland,FI19,Länsi-Suomi,2015,800
+Finland,FI1B,Helsinki-Uusimaa,2015,16418
+Finland,FI1C,Etelä-Suomi,2015,348
+Finland,FI1D,Pohjois- ja Itä-Suomi,2015,2452
+Finland,FI20,Åland,2015,59
+Finland,FIZZ,Extra-Regio NUTS 2,2015,-
+France,FR10,Île-de-France,2015,95337
+France,FRB0,Centre-Val de Loire,2015,188
+France,FRC1,Bourgogne,2015,-
+France,FRD1,Basse-Normandie,2015,-
+France,FRD2,Haute-Normandie,2015,-
+France,FRE1,Nord-Pas-de-Calais,2015,1520
+France,FRE2,Picardie,2015,4329
+France,FRF1,Alsace,2015,8203
+France,FRF2,Champagne-Ardenne,2015,81
+France,FRF3,Lorraine,2015,245
+France,FRG0,Pays-de-la-Loire,2015,4322
+France,FRH0,Bretagne,2015,1665
+France,FRI1,Aquitaine,2015,7234
+France,FRI2,Limousin,2015,292
+France,FRI3,Poitou-Charentes,2015,216
+France,FRJ1,Languedoc-Roussillon,2015,2718
+France,FRJ2,Midi-Pyrénées,2015,8020
+France,FRK1,Auvergne,2015,393
+France,FRK2,Rhône-Alpes,2015,9141
+France,FRL0,Provence-Alpes-Côte d’Azur,2015,20708
+France,FRM0,Corse,2015,3440
+France,FRY1,Guadeloupe,2015,2059
+France,FRY2,Martinique,2015,1634
+France,FRY3,Guyane,2015,443
+France,FRY4,La Réunion,2015,2058
+France,FRY5,Mayotte,2015,303
+Croatia,HR03,Jadranska Hrvatska,2015,4425
+Croatia,HR04,Kontinentalna Hrvatska,2015,2576
+Hungary,HU11,Budapest,2015,10228
+Hungary,HU32,Észak-Alföld,2015,-
+Ireland,IE04,Northern and Western,2015,685
+Ireland,IE05,Southern,2015,3981
+Ireland,IE06,Eastern and Midland,2015,24924
+,IS00,,2015,4847
+Italy,ITC1,Piemonte,2015,3779
+Italy,ITC3,Liguria,2015,1354
+Italy,ITC4,Lombardia,2015,38483
+Italy,ITF1,Abruzzo,2015,610
+Italy,ITF3,Campania,2015,6132
+Italy,ITF4,Puglia,2015,6201
+Italy,ITF6,Calabria,2015,2823
+Italy,ITG1,Sicilia,2015,14038
+Italy,ITG2,Sardegna,2015,7602
+Italy,ITH1,Provincia Autonoma di Bolzano/Bozen (1),2015,-
+Italy,ITH3,Veneto,2015,13678
+Italy,ITH4,Friuli-Venezia Giulia,2015,738
+Italy,ITH5,Emilia-Romagna,2015,7200
+Italy,ITI1,Toscana,2015,7201
+Italy,ITI2,Umbria,2015,280
+Italy,ITI3,Marche,2015,515
+Italy,ITI4,Lazio,2015,46034
+Lithuania,LT01,Sostinės regionas,2015,3333
+Lithuania,LT02,Vidurio ir vakarų Lietuvos regionas,2015,895
+Luxembourg,LU00,Luxembourg,2015,2652
+Latvia,LV00,Latvija,2015,5146
+Malta,MT00,Malta,2015,4620
+Netherlands,NL13,Drenthe,2015,182
+Netherlands,NL32,Noord-Holland,2015,58168
+Netherlands,NL33,Zuid-Holland,2015,1645
+Netherlands,NL41,Noord-Brabant,2015,4378
+Netherlands,NL42,Limburg (NL),2015,198
+,NO01,,2015,24554
+,NO02,,2015,-
+,NO03,,2015,3146
+,NO04,,2015,5911
+,NO05,,2015,7534
+,NO06,,2015,4328
+,NO07,,2015,5051
+Poland,PL21,Małopolskie,2015,4209
+Poland,PL22,Śląskie,2015,3048
+Poland,PL41,Wielkopolskie,2015,1477
+Poland,PL42,Zachodniopomorskie,2015,405
+Poland,PL51,Dolnośląskie,2015,2269
+Poland,PL61,Kujawsko-pomorskie,2015,339
+Poland,PL63,Pomorskie,2015,3986
+Poland,PL71,Łódzkie,2015,288
+Poland,PL82,Podkarpackie,2015,641
+Poland,PL91,Warszawski stołeczny,2015,13804
+Portugal,PT11,Norte,2015,8089
+Portugal,PT15,Algarve,2015,6439
+Portugal,PT16,Centro (PT),2015,-
+Portugal,PT17,Área Metropolitana de Lisboa,2015,20113
+Portugal,PT18,Alentejo,2015,0
+Portugal,PT20,Região Autónoma dos Açores,2015,1657
+Portugal,PT30,Região Autónoma da Madeira,2015,2706
+Romania,RO11,Nord-Vest,2015,1486
+Romania,RO12,Centru,2015,613
+Romania,RO21,Nord-Est,2015,745
+Romania,RO22,Sud-Est,2015,-
+Romania,RO32,București-Ilfov,2015,9274
+Romania,RO41,Sud-Vest Oltenia,2015,-
+Romania,RO42,Vest,2015,923
+Sweden,SE11,Stockholm,2015,25649
+Sweden,SE12,Östra Mellansverige,2015,2021
+Sweden,SE21,Småland med öarna,2015,840
+Sweden,SE22,Sydsverige,2015,2801
+Sweden,SE23,Västsverige,2015,6167
+Sweden,SE31,Norra Mellansverige,2015,-
+Sweden,SE32,Mellersta Norrland,2015,737
+Sweden,SE33,Övre Norrland,2015,2780
+Slovenia,SI04,Zahodna Slovenija,2015,1436
+Slovakia,SK01,Bratislavský kraj,2015,1556
+Slovakia,SK04,Východné Slovensko,2015,408
+United Kingdom,UKC1,Tees Valley and Durham,2015,140
+United Kingdom,UKC2,Northumberland and Tyne and Wear,2015,4560
+United Kingdom,UKD3,Greater Manchester,2015,23093
+United Kingdom,UKD4,Lancashire,2015,33
+United Kingdom,UKD7,Merseyside,2015,4296
+United Kingdom,UKE1,East Yorkshire and Northern Lincolnshire,2015,221
+United Kingdom,UKE3,South Yorkshire,2015,857
+United Kingdom,UKE4,West Yorkshire,2015,3445
+United Kingdom,UKF2,"Leicestershire, Rutland and Northamptonshire",2015,4446
+United Kingdom,UKG1,"Herefordshire, Worcestershire and Warwickshire",2015,0
+United Kingdom,UKG3,West Midlands,2015,10180
+United Kingdom,UKH1,East Anglia,2015,465
+United Kingdom,UKH2,Bedfordshire and Hertfordshire,2015,12263
+United Kingdom,UKH3,Essex,2015,23414
+United Kingdom,UKI4,Inner London — East,2015,4319
+United Kingdom,UKI6,Outer London — South,2015,1
+United Kingdom,UKI7,Outer London — West and North West,2015,74954
+United Kingdom,UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",2015,0
+United Kingdom,UKJ2,"Surrey, East and West Sussex",2015,40257
+United Kingdom,UKJ3,Hampshire and Isle of Wight,2015,1776
+United Kingdom,UKJ4,Kent,2015,1
+United Kingdom,UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",2015,6793
+United Kingdom,UKK2,Dorset and Somerset,2015,705
+United Kingdom,UKK3,Cornwall and Isles of Scilly,2015,-
+United Kingdom,UKK4,Devon,2015,821
+United Kingdom,UKL2,East Wales,2015,1159
+United Kingdom,UKM5,North Eastern Scotland,2015,3470
+United Kingdom,UKM6,Highlands and Islands,2015,1514
+United Kingdom,UKM7,Eastern Scotland,2015,11135
+United Kingdom,UKM8,West Central Scotland,2015,8710
+United Kingdom,UKM9,Southern Scotland,2015,610
+United Kingdom,UKN0,Northern Ireland,2015,7367
+United Kingdom,UKZZ,Extra-Regio NUTS 2,2015,250
+Austria,AT12,Niederösterreich,2016,23318
+Austria,AT21,Kärnten,2016,195
+Austria,AT22,Steiermark,2016,984
+Austria,AT31,Oberösterreich,2016,432
+Austria,AT32,Salzburg,2016,1749
+Austria,AT33,Tirol,2016,1011
+Belgium,BE21,Prov. (2) Antwerpen,2016,257
+Belgium,BE24,Prov. Vlaams-Brabant,2016,21769
+Belgium,BE25,Prov. West-Vlaanderen,2016,423
+Belgium,BE32,Prov. Hainaut,2016,7291
+Belgium,BE33,Prov. Liège,2016,378
+Bulgaria,BG33,Североизточен,2016,1669
+Bulgaria,BG34,Югоизточен,2016,2854
+Bulgaria,BG41,Югозападен,2016,4964
+,CH01,,2016,16448
+,CH02,,2016,167
+,CH04,,2016,27627
+,CH05,,2016,99
+,CH07,,2016,168
+Cyprus,CY00,Κύπρος,2016,8962
+Czechia,CZ01,Praha,2016,12990
+Czechia,CZ04,Severozápad,2016,19
+Czechia,CZ05,Severovýchod,2016,28
+Czechia,CZ06,Jihovýchod,2016,399
+Czechia,CZ08,Moravskoslezsko,2016,237
+Germany,DE11,Stuttgart,2016,10599
+Germany,DE12,Karlsruhe,2016,1101
+Germany,DE13,Freiburg,2016,-
+Germany,DE14,Tübingen,2016,467
+Germany,DE21,Oberbayern,2016,42159
+Germany,DE22,Niederbayern,2016,-
+Germany,DE24,Oberfranken,2016,-
+Germany,DE25,Mittelfranken,2016,3449
+Germany,DE27,Schwaben,2016,993
+Germany,DE30,Berlin,2016,21245
+Germany,DE40,Brandenburg,2016,11625
+Germany,DE50,Bremen,2016,2568
+Germany,DE60,Hamburg,2016,16191
+Germany,DE71,Darmstadt,2016,60669
+Germany,DE73,Kassel,2016,-
+Germany,DE80,Mecklenburg-Vorpommern,2016,218
+Germany,DE91,Braunschweig,2016,-
+Germany,DE92,Hannover,2016,5384
+Germany,DE94,Weser-Ems,2016,-
+Germany,DEA1,Düsseldorf,2016,25350
+Germany,DEA2,Köln,2016,11879
+Germany,DEA3,Münster,2016,771
+Germany,DEA4,Detmold,2016,686
+Germany,DEA5,Arnsberg,2016,1915
+Germany,DEB1,Koblenz,2016,2515
+Germany,DEB2,Trier,2016,-
+Germany,DEB3,Rheinhessen-Pfalz,2016,-
+Germany,DEC0,Saarland,2016,399
+Germany,DED2,Dresden,2016,1656
+Germany,DED5,Leipzig,2016,2177
+Germany,DEE0,Sachsen-Anhalt,2016,-
+Germany,DEF0,Schleswig-Holstein,2016,130
+Germany,DEG0,Thüringen,2016,226
+Germany,DEZZ,Extra-Regio NUTS 2,2016,-
+Denmark,DK01,Hovedstaden,2016,28958
+Denmark,DK02,Sjælland,2016,8
+Denmark,DK03,Syddanmark,2016,3209
+Denmark,DK04,Midtjylland,2016,535
+Denmark,DK05,Nordjylland,2016,1493
+Estonia,EE00,Eesti,2016,2215
+Greece,EL30,Αττική,2016,20020
+Greece,EL41,Βόρειο Αιγαίο,2016,1117
+Greece,EL42,Νότιο Αιγαίο,2016,10065
+Greece,EL43,Κρήτη,2016,9749
+Greece,EL51,"Ανατολική Μακεδονία, Θράκη",2016,437
+Greece,EL52,Κεντρική Μακεδονία,2016,5735
+Greece,EL53,Δυτική Μακεδονία,2016,14
+Greece,EL54,Ήπειρος,2016,97
+Greece,EL61,Θεσσαλία,2016,431
+Greece,EL62,Ιόνια Νησιά,2016,4738
+Greece,EL63,Δυτική Ελλάδα,2016,612
+Greece,EL64,Στερεά Ελλάδα,2016,16
+Greece,EL65,Πελοπόννησος,2016,232
+Spain,ES11,Galicia,2016,4517
+Spain,ES12,Principado de Asturias,2016,1282
+Spain,ES13,Cantabria,2016,777
+Spain,ES21,País Vasco,2016,4874
+Spain,ES22,Comunidad Foral de Navarra,2016,-
+Spain,ES24,Aragón,2016,419
+Spain,ES30,Comunidad de Madrid,2016,49178
+Spain,ES41,Castilla y León,2016,226
+Spain,ES51,Cataluña,2016,46204
+Spain,ES52,Comunidad Valenciana,2016,18090
+Spain,ES53,Illes Balears,2016,36102
+Spain,ES61,Andalucía,2016,23763
+Spain,ES62,Región de Murcia,2016,1095
+Spain,ES64,Ciudad Autónoma de Melilla,2016,324
+Spain,ES70,Canarias,2016,36878
+Finland,FI19,Länsi-Suomi,2016,658
+Finland,FI1B,Helsinki-Uusimaa,2016,17181
+Finland,FI1C,Etelä-Suomi,2016,324
+Finland,FI1D,Pohjois- ja Itä-Suomi,2016,2559
+Finland,FI20,Åland,2016,60
+Finland,FIZZ,Extra-Regio NUTS 2,2016,-
+France,FR10,Île-de-France,2016,97096
+France,FRB0,Centre-Val de Loire,2016,200
+France,FRC1,Bourgogne,2016,-
+France,FRD1,Basse-Normandie,2016,-
+France,FRD2,Haute-Normandie,2016,-
+France,FRE1,Nord-Pas-de-Calais,2016,1772
+France,FRE2,Picardie,2016,3997
+France,FRF1,Alsace,2016,8344
+France,FRF2,Champagne-Ardenne,2016,133
+France,FRF3,Lorraine,2016,223
+France,FRG0,Pays-de-la-Loire,2016,4729
+France,FRH0,Bretagne,2016,1758
+France,FRI1,Aquitaine,2016,7777
+France,FRI2,Limousin,2016,290
+France,FRI3,Poitou-Charentes,2016,220
+France,FRJ1,Languedoc-Roussillon,2016,2894
+France,FRJ2,Midi-Pyrénées,2016,8451
+France,FRK1,Auvergne,2016,396
+France,FRK2,Rhône-Alpes,2016,10017
+France,FRL0,Provence-Alpes-Côte d’Azur,2016,21311
+France,FRM0,Corse,2016,3657
+France,FRY1,Guadeloupe,2016,2216
+France,FRY2,Martinique,2016,1774
+France,FRY3,Guyane,2016,493
+France,FRY4,La Réunion,2016,2085
+France,FRY5,Mayotte,2016,320
+Croatia,HR03,Jadranska Hrvatska,2016,5161
+Croatia,HR04,Kontinentalna Hrvatska,2016,2757
+Hungary,HU11,Budapest,2016,11375
+Hungary,HU32,Észak-Alföld,2016,285
+Ireland,IE04,Northern and Western,2016,736
+Ireland,IE05,Southern,2016,4200
+Ireland,IE06,Eastern and Midland,2016,27709
+,IS00,,2016,6802
+Italy,ITC1,Piemonte,2016,3938
+Italy,ITC3,Liguria,2016,1261
+Italy,ITC4,Lombardia,2016,40116
+Italy,ITF1,Abruzzo,2016,569
+Italy,ITF3,Campania,2016,6754
+Italy,ITF4,Puglia,2016,6628
+Italy,ITF6,Calabria,2016,3013
+Italy,ITG1,Sicilia,2016,15284
+Italy,ITG2,Sardegna,2016,7569
+Italy,ITH1,Provincia Autonoma di Bolzano/Bozen (1),2016,-
+Italy,ITH3,Veneto,2016,15009
+Italy,ITH4,Friuli-Venezia Giulia,2016,724
+Italy,ITH5,Emilia-Romagna,2016,8088
+Italy,ITI1,Toscana,2016,7480
+Italy,ITI2,Umbria,2016,218
+Italy,ITI3,Marche,2016,477
+Italy,ITI4,Lazio,2016,46936
+Lithuania,LT01,Sostinės regionas,2016,3811
+Lithuania,LT02,Vidurio ir vakarų Lietuvos regionas,2016,977
+Luxembourg,LU00,Luxembourg,2016,2984
+Latvia,LV00,Latvija,2016,5385
+Malta,MT00,Malta,2016,5080
+Netherlands,NL13,Drenthe,2016,154
+Netherlands,NL32,Noord-Holland,2016,63550
+Netherlands,NL33,Zuid-Holland,2016,1650
+Netherlands,NL41,Noord-Brabant,2016,4784
+Netherlands,NL42,Limburg (NL),2016,180
+,NO01,,2016,25664
+,NO02,,2016,-
+,NO03,,2016,2612
+,NO04,,2016,5592
+,NO05,,2016,7444
+,NO06,,2016,4398
+,NO07,,2016,5205
+Poland,PL21,Małopolskie,2016,4975
+Poland,PL22,Śląskie,2016,3204
+Poland,PL41,Wielkopolskie,2016,1689
+Poland,PL42,Zachodniopomorskie,2016,459
+Poland,PL51,Dolnośląskie,2016,2372
+Poland,PL61,Kujawsko-pomorskie,2016,334
+Poland,PL63,Pomorskie,2016,4370
+Poland,PL71,Łódzkie,2016,241
+Poland,PL82,Podkarpackie,2016,662
+Poland,PL91,Warszawski stołeczny,2016,15703
+Portugal,PT11,Norte,2016,9384
+Portugal,PT15,Algarve,2016,7633
+Portugal,PT16,Centro (PT),2016,-
+Portugal,PT17,Área Metropolitana de Lisboa,2016,22469
+Portugal,PT18,Alentejo,2016,0
+Portugal,PT20,Região Autónoma dos Açores,2016,2019
+Portugal,PT30,Região Autónoma da Madeira,2016,3102
+Romania,RO11,Nord-Vest,2016,1880
+Romania,RO12,Centru,2016,653
+Romania,RO21,Nord-Est,2016,1295
+Romania,RO22,Sud-Est,2016,-
+Romania,RO32,București-Ilfov,2016,10979
+Romania,RO41,Sud-Vest Oltenia,2016,-
+Romania,RO42,Vest,2016,1160
+Sweden,SE11,Stockholm,2016,27209
+Sweden,SE12,Östra Mellansverige,2016,2278
+Sweden,SE21,Småland med öarna,2016,875
+Sweden,SE22,Sydsverige,2016,2870
+Sweden,SE23,Västsverige,2016,6378
+Sweden,SE31,Norra Mellansverige,2016,-
+Sweden,SE32,Mellersta Norrland,2016,777
+Sweden,SE33,Övre Norrland,2016,2794
+Slovenia,SI04,Zahodna Slovenija,2016,1404
+Slovakia,SK01,Bratislavský kraj,2016,1746
+Slovakia,SK04,Východné Slovensko,2016,435
+United Kingdom,UKC1,Tees Valley and Durham,2016,131
+United Kingdom,UKC2,Northumberland and Tyne and Wear,2016,4805
+United Kingdom,UKD3,Greater Manchester,2016,25598
+United Kingdom,UKD4,Lancashire,2016,36
+United Kingdom,UKD7,Merseyside,2016,4777
+United Kingdom,UKE1,East Yorkshire and Northern Lincolnshire,2016,201
+United Kingdom,UKE3,South Yorkshire,2016,1256
+United Kingdom,UKE4,West Yorkshire,2016,3611
+United Kingdom,UKF2,"Leicestershire, Rutland and Northamptonshire",2016,4651
+United Kingdom,UKG1,"Herefordshire, Worcestershire and Warwickshire",2016,0
+United Kingdom,UKG3,West Midlands,2016,11639
+United Kingdom,UKH1,East Anglia,2016,507
+United Kingdom,UKH2,Bedfordshire and Hertfordshire,2016,14642
+United Kingdom,UKH3,Essex,2016,25191
+United Kingdom,UKI4,Inner London — East,2016,4539
+United Kingdom,UKI6,Outer London — South,2016,1
+United Kingdom,UKI7,Outer London — West and North West,2016,75672
+United Kingdom,UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",2016,0
+United Kingdom,UKJ2,"Surrey, East and West Sussex",2016,43143
+United Kingdom,UKJ3,Hampshire and Isle of Wight,2016,1947
+United Kingdom,UKJ4,Kent,2016,0
+United Kingdom,UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",2016,7616
+United Kingdom,UKK2,Dorset and Somerset,2016,666
+United Kingdom,UKK3,Cornwall and Isles of Scilly,2016,-
+United Kingdom,UKK4,Devon,2016,850
+United Kingdom,UKL2,East Wales,2016,1344
+United Kingdom,UKM5,North Eastern Scotland,2016,2946
+United Kingdom,UKM6,Highlands and Islands,2016,1519
+United Kingdom,UKM7,Eastern Scotland,2016,12385
+United Kingdom,UKM8,West Central Scotland,2016,9324
+United Kingdom,UKM9,Southern Scotland,2016,672
+United Kingdom,UKN0,Northern Ireland,2016,8103
+United Kingdom,UKZZ,Extra-Regio NUTS 2,2016,370
+Austria,AT12,Niederösterreich,2017,24333
+Austria,AT21,Kärnten,2017,216
+Austria,AT22,Steiermark,2017,952
+Austria,AT31,Oberösterreich,2017,391
+Austria,AT32,Salzburg,2017,1895
+Austria,AT33,Tirol,2017,1090
+Belgium,BE21,Prov. (2) Antwerpen,2017,255
+Belgium,BE24,Prov. Vlaams-Brabant,2017,24776
+Belgium,BE25,Prov. West-Vlaanderen,2017,354
+Belgium,BE32,Prov. Hainaut,2017,7688
+Belgium,BE33,Prov. Liège,2017,188
+Bulgaria,BG33,Североизточен,2017,1947
+Bulgaria,BG34,Югоизточен,2017,2950
+Bulgaria,BG41,Югозападен,2017,6478
+,CH01,,2017,17269
+,CH02,,2017,168
+,CH04,,2017,29356
+,CH05,,2017,110
+,CH07,,2017,136
+Cyprus,CY00,Κύπρος,2017,10239
+Czechia,CZ01,Praha,2017,15386
+Czechia,CZ04,Severozápad,2017,20
+Czechia,CZ05,Severovýchod,2017,85
+Czechia,CZ06,Jihovýchod,2017,459
+Czechia,CZ08,Moravskoslezsko,2017,312
+Germany,DE11,Stuttgart,2017,10942
+Germany,DE12,Karlsruhe,2017,1236
+Germany,DE13,Freiburg,2017,-
+Germany,DE14,Tübingen,2017,456
+Germany,DE21,Oberbayern,2017,44535
+Germany,DE22,Niederbayern,2017,-
+Germany,DE24,Oberfranken,2017,-
+Germany,DE25,Mittelfranken,2017,4161
+Germany,DE27,Schwaben,2017,1176
+Germany,DE30,Berlin,2017,20451
+Germany,DE40,Brandenburg,2017,12852
+Germany,DE50,Bremen,2017,2535
+Germany,DE60,Hamburg,2017,17589
+Germany,DE71,Darmstadt,2017,64390
+Germany,DE73,Kassel,2017,-
+Germany,DE80,Mecklenburg-Vorpommern,2017,263
+Germany,DE91,Braunschweig,2017,-
+Germany,DE92,Hannover,2017,5854
+Germany,DE94,Weser-Ems,2017,-
+Germany,DEA1,Düsseldorf,2017,26495
+Germany,DEA2,Köln,2017,12366
+Germany,DEA3,Münster,2017,949
+Germany,DEA4,Detmold,2017,724
+Germany,DEA5,Arnsberg,2017,1997
+Germany,DEB1,Koblenz,2017,2358
+Germany,DEB2,Trier,2017,-
+Germany,DEB3,Rheinhessen-Pfalz,2017,-
+Germany,DEC0,Saarland,2017,373
+Germany,DED2,Dresden,2017,1701
+Germany,DED5,Leipzig,2017,2347
+Germany,DEE0,Sachsen-Anhalt,2017,-
+Germany,DEF0,Schleswig-Holstein,2017,-
+Germany,DEG0,Thüringen,2017,274
+Germany,DEZZ,Extra-Regio NUTS 2,2017,-
+Denmark,DK01,Hovedstaden,2017,29119
+Denmark,DK02,Sjælland,2017,7
+Denmark,DK03,Syddanmark,2017,3499
+Denmark,DK04,Midtjylland,2017,515
+Denmark,DK05,Nordjylland,2017,1493
+Estonia,EE00,Eesti,2017,2635
+Greece,EL30,Αττική,2017,21730
+Greece,EL41,Βόρειο Αιγαίο,2017,1192
+Greece,EL42,Νότιο Αιγαίο,2017,11312
+Greece,EL43,Κρήτη,2017,10429
+Greece,EL51,"Ανατολική Μακεδονία, Θράκη",2017,503
+Greece,EL52,Κεντρική Μακεδονία,2017,6347
+Greece,EL53,Δυτική Μακεδονία,2017,12
+Greece,EL54,Ήπειρος,2017,96
+Greece,EL61,Θεσσαλία,2017,450
+Greece,EL62,Ιόνια Νησιά,2017,5184
+Greece,EL63,Δυτική Ελλάδα,2017,717
+Greece,EL64,Στερεά Ελλάδα,2017,17
+Greece,EL65,Πελοπόννησος,2017,284
+Spain,ES11,Galicia,2017,4837
+Spain,ES12,Principado de Asturias,2017,1405
+Spain,ES13,Cantabria,2017,935
+Spain,ES21,País Vasco,2017,5330
+Spain,ES22,Comunidad Foral de Navarra,2017,-
+Spain,ES24,Aragón,2017,437
+Spain,ES30,Comunidad de Madrid,2017,52023
+Spain,ES41,Castilla y León,2017,220
+Spain,ES51,Cataluña,2017,49750
+Spain,ES52,Comunidad Valenciana,2017,20395
+Spain,ES53,Illes Balears,2017,38486
+Spain,ES61,Andalucía,2017,26566
+Spain,ES62,Región de Murcia,2017,1195
+Spain,ES64,Ciudad Autónoma de Melilla,2017,318
+Spain,ES70,Canarias,2017,39780
+Finland,FI19,Länsi-Suomi,2017,703
+Finland,FI1B,Helsinki-Uusimaa,2017,18981
+Finland,FI1C,Etelä-Suomi,2017,335
+Finland,FI1D,Pohjois- ja Itä-Suomi,2017,2722
+Finland,FI20,Åland,2017,62
+Finland,FIZZ,Extra-Regio NUTS 2,2017,-
+France,FR10,Île-de-France,2017,101458
+France,FRB0,Centre-Val de Loire,2017,189
+France,FRC1,Bourgogne,2017,-
+France,FRD1,Basse-Normandie,2017,-
+France,FRD2,Haute-Normandie,2017,-
+France,FRE1,Nord-Pas-de-Calais,2017,1899
+France,FRE2,Picardie,2017,3646
+France,FRF1,Alsace,2017,9055
+France,FRF2,Champagne-Ardenne,2017,-
+France,FRF3,Lorraine,2017,231
+France,FRG0,Pays-de-la-Loire,2017,5442
+France,FRH0,Bretagne,2017,1869
+France,FRI1,Aquitaine,2017,8278
+France,FRI2,Limousin,2017,309
+France,FRI3,Poitou-Charentes,2017,221
+France,FRJ1,Languedoc-Roussillon,2017,3106
+France,FRJ2,Midi-Pyrénées,2017,9670
+France,FRK1,Auvergne,2017,384
+France,FRK2,Rhône-Alpes,2017,10761
+France,FRL0,Provence-Alpes-Côte d’Azur,2017,22722
+France,FRM0,Corse,2017,4010
+France,FRY1,Guadeloupe,2017,2302
+France,FRY2,Martinique,2017,1820
+France,FRY3,Guyane,2017,489
+France,FRY4,La Réunion,2017,2252
+France,FRY5,Mayotte,2017,364
+Croatia,HR03,Jadranska Hrvatska,2017,6249
+Croatia,HR04,Kontinentalna Hrvatska,2017,3081
+Hungary,HU11,Budapest,2017,13032
+Hungary,HU32,Észak-Alföld,2017,318
+Ireland,IE04,Northern and Western,2017,749
+Ireland,IE05,Southern,2017,4219
+Ireland,IE06,Eastern and Midland,2017,29356
+,IS00,,2017,8319
+Italy,ITC1,Piemonte,2017,4186
+Italy,ITC3,Liguria,2017,1241
+Italy,ITC4,Lombardia,2017,43879
+Italy,ITF1,Abruzzo,2017,665
+Italy,ITF3,Campania,2017,8552
+Italy,ITF4,Puglia,2017,6984
+Italy,ITF6,Calabria,2017,2951
+Italy,ITG1,Sicilia,2017,16749
+Italy,ITG2,Sardegna,2017,8313
+Italy,ITH1,Provincia Autonoma di Bolzano/Bozen (1),2017,-
+Italy,ITH3,Veneto,2017,16429
+Italy,ITH4,Friuli-Venezia Giulia,2017,778
+Italy,ITH5,Emilia-Romagna,2017,8679
+Italy,ITI1,Toscana,2017,7871
+Italy,ITI2,Umbria,2017,247
+Italy,ITI3,Marche,2017,477
+Italy,ITI4,Lazio,2017,46692
+Lithuania,LT01,Sostinės regionas,2017,3759
+Lithuania,LT02,Vidurio ir vakarų Lietuvos regionas,2017,1487
+Luxembourg,LU00,Luxembourg,2017,3555
+Latvia,LV00,Latvija,2017,6078
+Malta,MT00,Malta,2017,6008
+Netherlands,NL13,Drenthe,2017,203
+Netherlands,NL32,Noord-Holland,2017,68422
+Netherlands,NL33,Zuid-Holland,2017,1740
+Netherlands,NL41,Noord-Brabant,2017,5705
+Netherlands,NL42,Limburg (NL),2017,171
+,NO01,,2017,27346
+,NO02,,2017,-
+,NO03,,2017,1944
+,NO04,,2017,5610
+,NO05,,2017,7597
+,NO06,,2017,4401
+,NO07,,2017,5449
+Poland,PL21,Małopolskie,2017,5829
+Poland,PL22,Śląskie,2017,3886
+Poland,PL41,Wielkopolskie,2017,1842
+Poland,PL42,Zachodniopomorskie,2017,578
+Poland,PL51,Dolnośląskie,2017,2806
+Poland,PL61,Kujawsko-pomorskie,2017,329
+Poland,PL63,Pomorskie,2017,5036
+Poland,PL71,Łódzkie,2017,207
+Poland,PL82,Podkarpackie,2017,640
+Poland,PL91,Warszawski stołeczny,2017,18689
+Portugal,PT11,Norte,2017,10799
+Portugal,PT15,Algarve,2017,8729
+Portugal,PT16,Centro (PT),2017,8
+Portugal,PT17,Área Metropolitana de Lisboa,2017,26686
+Portugal,PT18,Alentejo,2017,1
+Portugal,PT20,Região Autónoma dos Açores,2017,2455
+Portugal,PT30,Região Autónoma da Madeira,2017,3347
+Romania,RO11,Nord-Vest,2017,2678
+Romania,RO12,Centru,2017,491
+Romania,RO21,Nord-Est,2017,1570
+Romania,RO22,Sud-Est,2017,-
+Romania,RO32,București-Ilfov,2017,12803
+Romania,RO41,Sud-Vest Oltenia,2017,-
+Romania,RO42,Vest,2017,1621
+Sweden,SE11,Stockholm,2017,29130
+Sweden,SE12,Östra Mellansverige,2017,2375
+Sweden,SE21,Småland med öarna,2017,984
+Sweden,SE22,Sydsverige,2017,2835
+Sweden,SE23,Västsverige,2017,6764
+Sweden,SE31,Norra Mellansverige,2017,-
+Sweden,SE32,Mellersta Norrland,2017,822
+Sweden,SE33,Övre Norrland,2017,2959
+Slovenia,SI04,Zahodna Slovenija,2017,1682
+Slovakia,SK01,Bratislavský kraj,2017,1929
+Slovakia,SK04,Východné Slovensko,2017,495
+United Kingdom,UKC1,Tees Valley and Durham,2017,128
+United Kingdom,UKC2,Northumberland and Tyne and Wear,2017,5298
+United Kingdom,UKD3,Greater Manchester,2017,27774
+United Kingdom,UKD4,Lancashire,2017,23
+United Kingdom,UKD7,Merseyside,2017,4897
+United Kingdom,UKE1,East Yorkshire and Northern Lincolnshire,2017,190
+United Kingdom,UKE3,South Yorkshire,2017,1336
+United Kingdom,UKE4,West Yorkshire,2017,4075
+United Kingdom,UKF2,"Leicestershire, Rutland and Northamptonshire",2017,4878
+United Kingdom,UKG1,"Herefordshire, Worcestershire and Warwickshire",2017,-
+United Kingdom,UKG3,West Midlands,2017,12960
+United Kingdom,UKH1,East Anglia,2017,528
+United Kingdom,UKH2,Bedfordshire and Hertfordshire,2017,15989
+United Kingdom,UKH3,Essex,2017,26991
+United Kingdom,UKI4,Inner London — East,2017,4530
+United Kingdom,UKI6,Outer London — South,2017,1
+United Kingdom,UKI7,Outer London — West and North West,2017,77987
+United Kingdom,UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",2017,0
+United Kingdom,UKJ2,"Surrey, East and West Sussex",2017,45534
+United Kingdom,UKJ3,Hampshire and Isle of Wight,2017,2070
+United Kingdom,UKJ4,Kent,2017,-
+United Kingdom,UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",2017,8236
+United Kingdom,UKK2,Dorset and Somerset,2017,694
+United Kingdom,UKK3,Cornwall and Isles of Scilly,2017,-
+United Kingdom,UKK4,Devon,2017,908
+United Kingdom,UKL2,East Wales,2017,1464
+United Kingdom,UKM5,North Eastern Scotland,2017,3090
+United Kingdom,UKM6,Highlands and Islands,2017,1651
+United Kingdom,UKM7,Eastern Scotland,2017,13431
+United Kingdom,UKM8,West Central Scotland,2017,9895
+United Kingdom,UKM9,Southern Scotland,2017,696
+United Kingdom,UKN0,Northern Ireland,2017,8590
+United Kingdom,UKZZ,Extra-Regio NUTS 2,2017,460
+Austria,AT12,Niederösterreich,2018,27025
+Austria,AT21,Kärnten,2018,230
+Austria,AT22,Steiermark,2018,1027
+Austria,AT31,Oberösterreich,2018,459
+Austria,AT32,Salzburg,2018,1854
+Austria,AT33,Tirol,2018,1124
+Belgium,BE21,Prov. (2) Antwerpen,2018,282
+Belgium,BE24,Prov. Vlaams-Brabant,2018,25637
+Belgium,BE25,Prov. West-Vlaanderen,2018,407
+Belgium,BE32,Prov. Hainaut,2018,8017
+Belgium,BE33,Prov. Liège,2018,164
+Bulgaria,BG33,Североизточен,2018,2264
+Bulgaria,BG34,Югоизточен,2018,3256
+Bulgaria,BG41,Югозападен,2018,6932
+,CH01,,2018,17590
+,CH02,,2018,137
+,CH04,,2018,31070
+,CH05,,2018,113
+,CH07,,2018,89
+Cyprus,CY00,Κύπρος,2018,10927
+Czechia,CZ01,Praha,2018,16810
+Czechia,CZ04,Severozápad,2018,43
+Czechia,CZ05,Severovýchod,2018,143
+Czechia,CZ06,Jihovýchod,2018,484
+Czechia,CZ08,Moravskoslezsko,2018,357
+Germany,DE11,Stuttgart,2018,11796
+Germany,DE12,Karlsruhe,2018,1245
+Germany,DE13,Freiburg,2018,-
+Germany,DE14,Tübingen,2018,482
+Germany,DE21,Oberbayern,2018,46206
+Germany,DE22,Niederbayern,2018,-
+Germany,DE24,Oberfranken,2018,-
+Germany,DE25,Mittelfranken,2018,4436
+Germany,DE27,Schwaben,2018,1487
+Germany,DE30,Berlin,2018,21991
+Germany,DE40,Brandenburg,2018,12713
+Germany,DE50,Bremen,2018,2560
+Germany,DE60,Hamburg,2018,17198
+Germany,DE71,Darmstadt,2018,69386
+Germany,DE73,Kassel,2018,-
+Germany,DE80,Mecklenburg-Vorpommern,2018,268
+Germany,DE91,Braunschweig,2018,-
+Germany,DE92,Hannover,2018,6306
+Germany,DE94,Weser-Ems,2018,-
+Germany,DEA1,Düsseldorf,2018,25926
+Germany,DEA2,Köln,2018,12937
+Germany,DEA3,Münster,2018,1007
+Germany,DEA4,Detmold,2018,730
+Germany,DEA5,Arnsberg,2018,2280
+Germany,DEB1,Koblenz,2018,2012
+Germany,DEB2,Trier,2018,-
+Germany,DEB3,Rheinhessen-Pfalz,2018,-
+Germany,DEC0,Saarland,2018,333
+Germany,DED2,Dresden,2018,1753
+Germany,DED5,Leipzig,2018,2555
+Germany,DEE0,Sachsen-Anhalt,2018,-
+Germany,DEF0,Schleswig-Holstein,2018,-
+Germany,DEG0,Thüringen,2018,260
+Germany,DEZZ,Extra-Regio NUTS 2,2018,-
+Denmark,DK01,Hovedstaden,2018,30213
+Denmark,DK02,Sjælland,2018,6
+Denmark,DK03,Syddanmark,2018,3625
+Denmark,DK04,Midtjylland,2018,617
+Denmark,DK05,Nordjylland,2018,1580
+Estonia,EE00,Eesti,2018,2996
+Greece,EL30,Αττική,2018,24137
+Greece,EL41,Βόρειο Αιγαίο,2018,1273
+Greece,EL42,Νότιο Αιγαίο,2018,12003
+Greece,EL43,Κρήτη,2018,10958
+Greece,EL51,"Ανατολική Μακεδονία, Θράκη",2018,609
+Greece,EL52,Κεντρική Μακεδονία,2018,6412
+Greece,EL53,Δυτική Μακεδονία,2018,10
+Greece,EL54,Ήπειρος,2018,109
+Greece,EL61,Θεσσαλία,2018,460
+Greece,EL62,Ιόνια Νησιά,2018,5618
+Greece,EL63,Δυτική Ελλάδα,2018,740
+Greece,EL64,Στερεά Ελλάδα,2018,18
+Greece,EL65,Πελοπόννησος,2018,288
+Spain,ES11,Galicia,2018,5065
+Spain,ES12,Principado de Asturias,2018,1398
+Spain,ES13,Cantabria,2018,1100
+Spain,ES21,País Vasco,2018,5889
+Spain,ES22,Comunidad Foral de Navarra,2018,203
+Spain,ES24,Aragón,2018,487
+Spain,ES30,Comunidad de Madrid,2018,56478
+Spain,ES41,Castilla y León,2018,246
+Spain,ES51,Cataluña,2018,52635
+Spain,ES52,Comunidad Valenciana,2018,21684
+Spain,ES53,Illes Balears,2018,39699
+Spain,ES61,Andalucía,2018,28479
+Spain,ES62,Región de Murcia,2018,1271
+Spain,ES64,Ciudad Autónoma de Melilla,2018,342
+Spain,ES70,Canarias,2018,40360
+Finland,FI19,Länsi-Suomi,2018,705
+Finland,FI1B,Helsinki-Uusimaa,2018,20990
+Finland,FI1C,Etelä-Suomi,2018,371
+Finland,FI1D,Pohjois- ja Itä-Suomi,2018,3032
+Finland,FI20,Åland,2018,55
+Finland,FIZZ,Extra-Regio NUTS 2,2018,-
+France,FR10,Île-de-France,2018,105311
+France,FRB0,Centre-Val de Loire,2018,180
+France,FRC1,Bourgogne,2018,-
+France,FRD1,Basse-Normandie,2018,-
+France,FRD2,Haute-Normandie,2018,-
+France,FRE1,Nord-Pas-de-Calais,2018,2064
+France,FRE2,Picardie,2018,3785
+France,FRF1,Alsace,2018,9827
+France,FRF2,Champagne-Ardenne,2018,61
+France,FRF3,Lorraine,2018,256
+France,FRG0,Pays-de-la-Loire,2018,6150
+France,FRH0,Bretagne,2018,1924
+France,FRI1,Aquitaine,2018,8831
+France,FRI2,Limousin,2018,301
+France,FRI3,Poitou-Charentes,2018,240
+France,FRJ1,Languedoc-Roussillon,2018,3184
+France,FRJ2,Midi-Pyrénées,2018,10052
+France,FRK1,Auvergne,2018,422
+France,FRK2,Rhône-Alpes,2018,11540
+France,FRL0,Provence-Alpes-Côte d’Azur,2018,23731
+France,FRM0,Corse,2018,4274
+France,FRY1,Guadeloupe,2018,2405
+France,FRY2,Martinique,2018,1897
+France,FRY3,Guyane,2018,531
+France,FRY4,La Réunion,2018,2423
+France,FRY5,Mayotte,2018,367
+Croatia,HR03,Jadranska Hrvatska,2018,6903
+Croatia,HR04,Kontinentalna Hrvatska,2018,3322
+Hungary,HU11,Budapest,2018,14801
+Hungary,HU32,Észak-Alföld,2018,376
+Ireland,IE04,Northern and Western,2018,771
+Ireland,IE05,Southern,2018,4407
+Ireland,IE06,Eastern and Midland,2018,31225
+,IS00,,2018,9766
+Italy,ITC1,Piemonte,2018,4107
+Italy,ITC3,Liguria,2018,1461
+Italy,ITC4,Lombardia,2018,46296
+Italy,ITF1,Abruzzo,2018,656
+Italy,ITF3,Campania,2018,9904
+Italy,ITF4,Puglia,2018,7559
+Italy,ITF6,Calabria,2018,3225
+Italy,ITG1,Sicilia,2018,17638
+Italy,ITG2,Sardegna,2018,8750
+Italy,ITH1,Provincia Autonoma di Bolzano/Bozen (1),2018,-
+Italy,ITH3,Veneto,2018,17910
+Italy,ITH4,Friuli-Venezia Giulia,2018,769
+Italy,ITH5,Emilia-Romagna,2018,8944
+Italy,ITI1,Toscana,2018,8156
+Italy,ITI2,Umbria,2018,222
+Italy,ITI3,Marche,2018,447
+Italy,ITI4,Lazio,2018,48706
+Lithuania,LT01,Sostinės regionas,2018,4920
+Lithuania,LT02,Vidurio ir vakarų Lietuvos regionas,2018,1334
+Luxembourg,LU00,Luxembourg,2018,3989
+Latvia,LV00,Latvija,2018,7037
+Malta,MT00,Malta,2018,6806
+Netherlands,NL13,Drenthe,2018,230
+Netherlands,NL32,Noord-Holland,2018,70979
+Netherlands,NL33,Zuid-Holland,2018,1915
+Netherlands,NL41,Noord-Brabant,2018,6242
+Netherlands,NL42,Limburg (NL),2018,278
+,NO01,,2018,28403
+,NO02,,2018,-
+,NO03,,2018,2063
+,NO04,,2018,5710
+,NO05,,2018,7799
+,NO06,,2018,4420
+,NO07,,2018,5636
+Poland,PL21,Małopolskie,2018,6761
+Poland,PL22,Śląskie,2018,4830
+Poland,PL41,Wielkopolskie,2018,2462
+Poland,PL42,Zachodniopomorskie,2018,598
+Poland,PL51,Dolnośląskie,2018,3298
+Poland,PL61,Kujawsko-pomorskie,2018,410
+Poland,PL63,Pomorskie,2018,5418
+Poland,PL71,Łódzkie,2018,237
+Poland,PL82,Podkarpackie,2018,769
+Poland,PL91,Warszawski stołeczny,2018,20853
+Portugal,PT11,Norte,2018,11952
+Portugal,PT15,Algarve,2018,8693
+Portugal,PT16,Centro (PT),2018,10
+Portugal,PT17,Área Metropolitana de Lisboa,2018,29059
+Portugal,PT18,Alentejo,2018,6
+Portugal,PT20,Região Autónoma dos Açores,2018,2517
+Portugal,PT30,Região Autónoma da Madeira,2018,3318
+Romania,RO11,Nord-Vest,2018,2782
+Romania,RO12,Centru,2018,722
+Romania,RO21,Nord-Est,2018,1699
+Romania,RO22,Sud-Est,2018,-
+Romania,RO32,București-Ilfov,2018,13819
+Romania,RO41,Sud-Vest Oltenia,2018,493
+Romania,RO42,Vest,2018,1517
+Sweden,SE11,Stockholm,2018,29350
+Sweden,SE12,Östra Mellansverige,2018,2447
+Sweden,SE21,Småland med öarna,2018,1091
+Sweden,SE22,Sydsverige,2018,2776
+Sweden,SE23,Västsverige,2018,6809
+Sweden,SE31,Norra Mellansverige,2018,-
+Sweden,SE32,Mellersta Norrland,2018,786
+Sweden,SE33,Övre Norrland,2018,2915
+Slovenia,SI04,Zahodna Slovenija,2018,1811
+Slovakia,SK01,Bratislavský kraj,2018,2273
+Slovakia,SK04,Východné Slovensko,2018,540
+United Kingdom,UKC1,Tees Valley and Durham,2018,140
+United Kingdom,UKC2,Northumberland and Tyne and Wear,2018,5332
+United Kingdom,UKD3,Greater Manchester,2018,28256
+United Kingdom,UKD4,Lancashire,2018,19
+United Kingdom,UKD7,Merseyside,2018,5042
+United Kingdom,UKE1,East Yorkshire and Northern Lincolnshire,2018,192
+United Kingdom,UKE3,South Yorkshire,2018,1222
+United Kingdom,UKE4,West Yorkshire,2018,4038
+United Kingdom,UKF2,"Leicestershire, Rutland and Northamptonshire",2018,4874
+United Kingdom,UKG1,"Herefordshire, Worcestershire and Warwickshire",2018,-
+United Kingdom,UKG3,West Midlands,2018,12455
+United Kingdom,UKH1,East Anglia,2018,537
+United Kingdom,UKH2,Bedfordshire and Hertfordshire,2018,16767
+United Kingdom,UKH3,Essex,2018,29475
+United Kingdom,UKI4,Inner London — East,2018,4820
+United Kingdom,UKI6,Outer London — South,2018,2
+United Kingdom,UKI7,Outer London — West and North West,2018,80100
+United Kingdom,UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",2018,0
+United Kingdom,UKJ2,"Surrey, East and West Sussex",2018,46081
+United Kingdom,UKJ3,Hampshire and Isle of Wight,2018,1991
+United Kingdom,UKJ4,Kent,2018,-
+United Kingdom,UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",2018,8697
+United Kingdom,UKK2,Dorset and Somerset,2018,675
+United Kingdom,UKK3,Cornwall and Isles of Scilly,2018,-
+United Kingdom,UKK4,Devon,2018,931
+United Kingdom,UKL2,East Wales,2018,1579
+United Kingdom,UKM5,North Eastern Scotland,2018,3056
+United Kingdom,UKM6,Highlands and Islands,2018,1674
+United Kingdom,UKM7,Eastern Scotland,2018,14313
+United Kingdom,UKM8,West Central Scotland,2018,9653
+United Kingdom,UKM9,Southern Scotland,2018,681
+United Kingdom,UKN0,Northern Ireland,2018,8965
+United Kingdom,UKZZ,Extra-Regio NUTS 2,2018,457
+Austria,AT12,Niederösterreich,2019,31635
+Austria,AT21,Kärnten,2019,210
+Austria,AT22,Steiermark,2019,1035
+Austria,AT31,Oberösterreich,2019,430
+Austria,AT32,Salzburg,2019,1730
+Austria,AT33,Tirol,2019,1151
+Belgium,BE21,Prov. (2) Antwerpen,2019,290
+Belgium,BE24,Prov. Vlaams-Brabant,2019,26287
+Belgium,BE25,Prov. West-Vlaanderen,2019,445
+Belgium,BE32,Prov. Hainaut,2019,8197
+Belgium,BE33,Prov. Liège,2019,167
+Bulgaria,BG33,Североизточен,2019,2069
+Bulgaria,BG34,Югоизточен,2019,2858
+Bulgaria,BG41,Югозападен,2019,7078
+,CH01,,2019,17829
+,CH02,,2019,22
+,CH04,,2019,31476
+,CH05,,2019,107
+,CH07,,2019,56
+Cyprus,CY00,Κύπρος,2019,11261
+Czechia,CZ01,Praha,2019,17839
+Czechia,CZ04,Severozápad,2019,62
+Czechia,CZ05,Severovýchod,2019,99
+Czechia,CZ06,Jihovýchod,2019,526
+Czechia,CZ08,Moravskoslezsko,2019,307
+Germany,DE11,Stuttgart,2019,12700
+Germany,DE12,Karlsruhe,2019,1334
+Germany,DE13,Freiburg,2019,-
+Germany,DE14,Tübingen,2019,443
+Germany,DE21,Oberbayern,2019,47892
+Germany,DE22,Niederbayern,2019,-
+Germany,DE24,Oberfranken,2019,-
+Germany,DE25,Mittelfranken,2019,4087
+Germany,DE27,Schwaben,2019,1719
+Germany,DE30,Berlin,2019,24223
+Germany,DE40,Brandenburg,2019,11404
+Germany,DE50,Bremen,2019,2305
+Germany,DE60,Hamburg,2019,17274
+Germany,DE71,Darmstadt,2019,70436
+Germany,DE73,Kassel,2019,-
+Germany,DE80,Mecklenburg-Vorpommern,2019,126
+Germany,DE91,Braunschweig,2019,-
+Germany,DE92,Hannover,2019,6287
+Germany,DE94,Weser-Ems,2019,-
+Germany,DEA1,Düsseldorf,2019,26707
+Germany,DEA2,Köln,2019,12351
+Germany,DEA3,Münster,2019,974
+Germany,DEA4,Detmold,2019,690
+Germany,DEA5,Arnsberg,2019,2717
+Germany,DEB1,Koblenz,2019,1396
+Germany,DEB2,Trier,2019,-
+Germany,DEB3,Rheinhessen-Pfalz,2019,-
+Germany,DEC0,Saarland,2019,343
+Germany,DED2,Dresden,2019,1591
+Germany,DED5,Leipzig,2019,2606
+Germany,DEE0,Sachsen-Anhalt,2019,-
+Germany,DEF0,Schleswig-Holstein,2019,-
+Germany,DEG0,Thüringen,2019,150
+Germany,DEZZ,Extra-Regio NUTS 2,2019,-
+Denmark,DK01,Hovedstaden,2019,30135
+Denmark,DK02,Sjælland,2019,6
+Denmark,DK03,Syddanmark,2019,3847
+Denmark,DK04,Midtjylland,2019,612
+Denmark,DK05,Nordjylland,2019,1443
+Estonia,EE00,Eesti,2019,3258
+Greece,EL30,Αττική,2019,25578
+Greece,EL41,Βόρειο Αιγαίο,2019,1348
+Greece,EL42,Νότιο Αιγαίο,2019,12312
+Greece,EL43,Κρήτη,2019,10756
+Greece,EL51,"Ανατολική Μακεδονία, Θράκη",2019,556
+Greece,EL52,Κεντρική Μακεδονία,2019,6679
+Greece,EL53,Δυτική Μακεδονία,2019,8
+Greece,EL54,Ήπειρος,2019,133
+Greece,EL61,Θεσσαλία,2019,469
+Greece,EL62,Ιόνια Νησιά,2019,5560
+Greece,EL63,Δυτική Ελλάδα,2019,764
+Greece,EL64,Στερεά Ελλάδα,2019,17
+Greece,EL65,Πελοπόννησος,2019,341
+Spain,ES11,Galicia,2019,5248
+Spain,ES12,Principado de Asturias,2019,1405
+Spain,ES13,Cantabria,2019,1171
+Spain,ES21,País Vasco,2019,6353
+Spain,ES22,Comunidad Foral de Navarra,2019,240
+Spain,ES24,Aragón,2019,345
+Spain,ES30,Comunidad de Madrid,2019,59747
+Spain,ES41,Castilla y León,2019,242
+Spain,ES51,Cataluña,2019,54693
+Spain,ES52,Comunidad Valenciana,2019,23401
+Spain,ES53,Illes Balears,2019,40285
+Spain,ES61,Andalucía,2019,30414
+Spain,ES62,Región de Murcia,2019,22
+Spain,ES64,Ciudad Autónoma de Melilla,2019,428
+Spain,ES70,Canarias,2019,40035
+Finland,FI19,Länsi-Suomi,2019,667
+Finland,FI1B,Helsinki-Uusimaa,2019,22049
+Finland,FI1C,Etelä-Suomi,2019,455
+Finland,FI1D,Pohjois- ja Itä-Suomi,2019,3018
+Finland,FI20,Åland,2019,52
+Finland,FIZZ,Extra-Regio NUTS 2,2019,-
+France,FR10,Île-de-France,2019,107991
+France,FRB0,Centre-Val de Loire,2019,195
+France,FRC1,Bourgogne,2019,-
+France,FRD1,Basse-Normandie,2019,415
+France,FRD2,Haute-Normandie,2019,-
+France,FRE1,Nord-Pas-de-Calais,2019,2182
+France,FRE2,Picardie,2019,3982
+France,FRF1,Alsace,2019,10351
+France,FRF2,Champagne-Ardenne,2019,81
+France,FRF3,Lorraine,2019,242
+France,FRG0,Pays-de-la-Loire,2019,7204
+France,FRH0,Bretagne,2019,2054
+France,FRI1,Aquitaine,2019,9614
+France,FRI2,Limousin,2019,300
+France,FRI3,Poitou-Charentes,2019,232
+France,FRJ1,Languedoc-Roussillon,2019,3224
+France,FRJ2,Midi-Pyrénées,2019,10085
+France,FRK1,Auvergne,2019,427
+France,FRK2,Rhône-Alpes,2019,12201
+France,FRL0,Provence-Alpes-Côte d’Azur,2019,25090
+France,FRM0,Corse,2019,4249
+France,FRY1,Guadeloupe,2019,2462
+France,FRY2,Martinique,2019,1954
+France,FRY3,Guyane,2019,560
+France,FRY4,La Réunion,2019,2451
+France,FRY5,Mayotte,2019,381
+Croatia,HR03,Jadranska Hrvatska,2019,7692
+Croatia,HR04,Kontinentalna Hrvatska,2019,3410
+Hungary,HU11,Budapest,2019,16100
+Hungary,HU32,Észak-Alföld,2019,601
+Ireland,IE04,Northern and Western,2019,805
+Ireland,IE05,Southern,2019,4547
+Ireland,IE06,Eastern and Midland,2019,32653
+,IS00,,2019,7223
+Italy,ITC1,Piemonte,2019,3997
+Italy,ITC3,Liguria,2019,1539
+Italy,ITC4,Lombardia,2019,49096
+Italy,ITF1,Abruzzo,2019,699
+Italy,ITF3,Campania,2019,10834
+Italy,ITF4,Puglia,2019,8294
+Italy,ITF6,Calabria,2019,3536
+Italy,ITG1,Sicilia,2019,18182
+Italy,ITG2,Sardegna,2019,9097
+Italy,ITH1,Provincia Autonoma di Bolzano/Bozen (1),2019,-
+Italy,ITH3,Veneto,2019,18404
+Italy,ITH4,Friuli-Venezia Giulia,2019,780
+Italy,ITH5,Emilia-Romagna,2019,9905
+Italy,ITI1,Toscana,2019,8233
+Italy,ITI2,Umbria,2019,218
+Italy,ITI3,Marche,2019,482
+Italy,ITI4,Lazio,2019,49250
+Lithuania,LT01,Sostinės regionas,2019,5002
+Lithuania,LT02,Vidurio ir vakarų Lietuvos regionas,2019,1503
+Luxembourg,LU00,Luxembourg,2019,4366
+Latvia,LV00,Latvija,2019,7786
+Malta,MT00,Malta,2019,7318
+Netherlands,NL13,Drenthe,2019,177
+Netherlands,NL32,Noord-Holland,2019,71690
+Netherlands,NL33,Zuid-Holland,2019,2102
+Netherlands,NL41,Noord-Brabant,2019,6785
+Netherlands,NL42,Limburg (NL),2019,440
+,NO01,,2019,28472
+,NO02,,2019,-
+,NO03,,2019,2056
+,NO04,,2019,5726
+,NO05,,2019,7976
+,NO06,,2019,4368
+,NO07,,2019,5627
+Poland,PL21,Małopolskie,2019,8403
+Poland,PL22,Śląskie,2019,4835
+Poland,PL41,Wielkopolskie,2019,2372
+Poland,PL42,Zachodniopomorskie,2019,574
+Poland,PL51,Dolnośląskie,2019,3500
+Poland,PL61,Kujawsko-pomorskie,2019,425
+Poland,PL63,Pomorskie,2019,5719
+Poland,PL71,Łódzkie,2019,242
+Poland,PL82,Podkarpackie,2019,772
+Poland,PL91,Warszawski stołeczny,2019,21972
+Portugal,PT11,Norte,2019,13203
+Portugal,PT15,Algarve,2019,9061
+Portugal,PT16,Centro (PT),2019,14
+Portugal,PT17,Área Metropolitana de Lisboa,2019,31204
+Portugal,PT18,Alentejo,2019,3
+Portugal,PT20,Região Autónoma dos Açores,2019,2836
+Portugal,PT30,Região Autónoma da Madeira,2019,3344
+Romania,RO11,Nord-Vest,2019,2994
+Romania,RO12,Centru,2019,853
+Romania,RO21,Nord-Est,2019,2099
+Romania,RO22,Sud-Est,2019,23
+Romania,RO32,București-Ilfov,2019,14694
+Romania,RO41,Sud-Vest Oltenia,2019,514
+Romania,RO42,Vest,2019,1595
+Sweden,SE11,Stockholm,2019,27993
+Sweden,SE12,Östra Mellansverige,2019,2518
+Sweden,SE21,Småland med öarna,2019,1024
+Sweden,SE22,Sydsverige,2019,2568
+Sweden,SE23,Västsverige,2019,6671
+Sweden,SE31,Norra Mellansverige,2019,-
+Sweden,SE32,Mellersta Norrland,2019,706
+Sweden,SE33,Övre Norrland,2019,2675
+Slovenia,SI04,Zahodna Slovenija,2019,1719
+Slovakia,SK01,Bratislavský kraj,2019,2285
+Slovakia,SK04,Východné Slovensko,2019,556
+United Kingdom,UKC1,Tees Valley and Durham,2019,148
+United Kingdom,UKC2,Northumberland and Tyne and Wear,2019,5194
+United Kingdom,UKD3,Greater Manchester,2019,29321
+United Kingdom,UKD4,Lancashire,2019,15
+United Kingdom,UKD7,Merseyside,2019,5014
+United Kingdom,UKE1,East Yorkshire and Northern Lincolnshire,2019,202
+United Kingdom,UKE3,South Yorkshire,2019,1408
+United Kingdom,UKE4,West Yorkshire,2019,3992
+United Kingdom,UKF2,"Leicestershire, Rutland and Northamptonshire",2019,4668
+United Kingdom,UKG1,"Herefordshire, Worcestershire and Warwickshire",2019,-
+United Kingdom,UKG3,West Midlands,2019,12646
+United Kingdom,UKH1,East Anglia,2019,530
+United Kingdom,UKH2,Bedfordshire and Hertfordshire,2019,18214
+United Kingdom,UKH3,Essex,2019,30154
+United Kingdom,UKI4,Inner London — East,2019,5122
+United Kingdom,UKI6,Outer London — South,2019,2
+United Kingdom,UKI7,Outer London — West and North West,2019,80887
+United Kingdom,UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",2019,-
+United Kingdom,UKJ2,"Surrey, East and West Sussex",2019,46561
+United Kingdom,UKJ3,Hampshire and Isle of Wight,2019,1781
+United Kingdom,UKJ4,Kent,2019,-
+United Kingdom,UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",2019,8954
+United Kingdom,UKK2,Dorset and Somerset,2019,803
+United Kingdom,UKK3,Cornwall and Isles of Scilly,2019,-
+United Kingdom,UKK4,Devon,2019,1022
+United Kingdom,UKL2,East Wales,2019,1651
+United Kingdom,UKM5,North Eastern Scotland,2019,2913
+United Kingdom,UKM6,Highlands and Islands,2019,1658
+United Kingdom,UKM7,Eastern Scotland,2019,14755
+United Kingdom,UKM8,West Central Scotland,2019,8834
+United Kingdom,UKM9,Southern Scotland,2019,639
+United Kingdom,UKN0,Northern Ireland,2019,8935
+United Kingdom,UKZZ,Extra-Regio NUTS 2,2019,461
