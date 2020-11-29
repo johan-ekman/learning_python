@@ -1,10 +1,10 @@
 # Learning Python – In Jupyter
 
-This is a python introduction course in [Jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html). It consists of 15 chapters of Python basics, covering the basic concepts in the Python programming language. Then six more chapters in a continuation course, covering more advanced concepts and exercises. 
+This is a Python introduction course in [Jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html). It consists of 15 chapters of Python basics, covering the basic concepts in the Python programming language. Then, there are six more chapters in the continuation course, covering more advanced concepts and providing challenging exercises. 
 
-The course is written for absolute beginners with no prior programming skills. Therefore, the entire course is in Jupyter Notebooks, since this enables you to jump straight into trying out Python code. You won't have to worry about installing everything correctly, using virtual environments, or learning how to use your computer's interactive shell (although, you should learn about these concepts as well, later on). 
+The course is for absolute beginners with no prior programming skills. Therefore, the entire course is in Jupyter Notebooks, since this enables you to jump straight to trying out Python code. You won't have to worry about installing everything correctly, using virtual environments, or learning how to use your computer's interactive shell (although, you should learn about these concepts as well, later on). 
 
-To start the course, just follow the guide bellow. Good luck!
+To start the course, just follow the guide below. Good luck!
 
 ## Get started – A step-by-step guide for the beginner
 
