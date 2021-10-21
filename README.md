@@ -36,11 +36,11 @@ The first time you open Anaconda Navigator, it can take some time to load. When 
 
 ![image](course_material/readme/navigator.png)
 
-(If you are using Windows, _if a Jupyter Notebook isn't launched_ when you press launch, there might be a bug. If that is the case, you can use the Anaconda prompt to launch Jupyter instead. Search for "anaconda prompt" in the Windows search bar and open it.
+(*Windows users:*, _if a Jupyter Notebook isn't launched_ when you press launch in Ananconda Navigator, there might be a bug. If it doesn't launch properly, you can use the Anaconda prompt to launch Jupyter instead. Search for "anaconda prompt" in the Windows search bar and open it:
 
 ![image](course_material/readme/anaconda_prompt.png)
 
-This will open a command line window. Here, simply type `jupyter notebook` and it should be launched.)
+This will open a command line window. Here, simply type `jupyter notebook`, then press enter and it should be launched!)
 
 When you've successfully launched Jupyter, your default browser will open. The first view should be your "home page" in the Jupyter Notebook file tree navigator. It should look similar to this:
 
