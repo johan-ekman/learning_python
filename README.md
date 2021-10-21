@@ -10,7 +10,9 @@ To start the course, just follow the guide below. Good luck!
 
 ### 1. Install Anaconda
 
-The best way to quickly get into the course is to download [the Anaconda software package](https://www.anaconda.com/products/individual#Downloads). By using Anaconda, you can be sure you get all Jupyter installations needed to run the course notebook. For Max OS, you get to choose between command line installation and the graphical installer. For beginners, the graphical installer is recommended!
+The best way to quickly get into the course is to download the Anaconda software package ([follow this link](https://www.anaconda.com/products/individual#Downloads)). By using Anaconda, you can be sure you get all Jupyter installations needed to run the course notebook. For Max OS, you get to choose between command line installation and the graphical installer. For beginners, the graphical installer is recommended. 
+
+When you click on your choice of installer, you will get a pop-up window to register to Anaconda Nucleus. This service is not mandatory to run Anaconda, and it is a requirement to proceed with this course. If you don't want this service, just ignore it.
 
 If you run into problems installing Anaconda, [check this guide](https://docs.anaconda.com/anaconda/install/).
 
@@ -34,7 +36,13 @@ The first time you open Anaconda Navigator, it can take some time to load. When 
 
 ![image](course_material/readme/navigator.png)
 
-When you've pressed the launch button, your default browser will open. The first view should be your home page in the Jupyter Notebook file tree navigator. It looks like this:
+(If you are using Windows, _if a Jupyter Notebook isn't launched_ when you press launch, there might be a bug. If that is the case, you can use the Anaconda prompt to launch Jupyter instead. Search for "anaconda prompt" in the Windows search bar and open it.
+
+![image](course_material/readme/anaconda_prompt.png)
+
+This will open a command line window. Here, simply type `jupyter notebook` and it should be launched.)
+
+When you've successfully launched Jupyter, your default browser will open. The first view should be your "home page" in the Jupyter Notebook file tree navigator. It should look similar to this:
 
 ![image](course_material/readme/jupyter.png)
 
