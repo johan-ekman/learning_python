@@ -64,9 +64,9 @@ Place your course material here:
 
 ### 6. Open the course in a notebook
 
-Find the course material in the Jupyter Notebook file tree navigator interface. All Jupyter Notebook files have the file extension `.ipynb`. The course notebooks is in two different folders – one folder for Python basics and one continuation course. 
+Find the course material in the Jupyter Notebook file tree navigator interface. All Jupyter Notebook files have the file extension `.ipynb`. The course notebooks are within two different folders – one folder for Python basics and one for the continuation course. 
 
-You start with the notebooks in the folder "basics_course". This is for the absolute beginner. The first part is named `chapter_1-7.ipynb`, which includes a course introduction. Begin with this file! In the continuation course notebook, we learn about creating and managing files, writing our own text recognition software with regular expressions, and web scraping. There is also a project assignment where you get to extract information from 5,000 pdf files!
+You start with the notebooks in the folder "basics_course". This is for the absolute beginner. The first part is named `chapter_1-7.ipynb`, which includes a course introduction. Begin with this file! In the continuation course notebook, we learn about creating and managing files, writing our own text recognition software with regular expressions, and web scraping. There is also a project assignment where you get to extract information from 5,000 pdf files! Lastly, there is a course on the data management library Pandas – highly recommended for those who want to use programming to analyze data.
 
 
 ![image](course_material/readme/course_start.png)
@@ -84,6 +84,8 @@ But I also recommend that you create your own notebook to experiment with. It's 
 If you want to copy the course notebooks, and experiment directly in them (without risking deleting any course material), this is also possible! Just check the notebook you want to duplicate and press the "Duplicate" button up top:
 
 ![image](course_material/readme/duplicate.png)
+
+You can then open the new copy and work in it instead.
 
 
 
