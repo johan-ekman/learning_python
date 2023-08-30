@@ -41,7 +41,7 @@ Important features in the launch view:
 2. File manager 
 3. Buttons to launch notebooks. They are various versions of default notebooks.
 
-3. Download the course 
+#### 3. Download the course 
 
 To download all files relevant for this course, first press the the `<> Code` button up top on this webpage (see (1) in this pic):
 
