@@ -38,6 +38,8 @@ Thumbs.db
 ########
 *__pycache__*
 .ipynb_checkpoints
+*.lock
+*.toml
 Pipfile*
 python_intro*
 *Copy*
