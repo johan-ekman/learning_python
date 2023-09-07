@@ -4,7 +4,11 @@ This is a Python introduction course in [Jupyter notebooks](https://jupyter-note
 
 The course is for absolute beginners with no prior programming skills. Therefore, the entire course is in Jupyter Notebooks, since this enables you to jump straight to trying out Python code. You won't have to worry about installing everything correctly, using virtual environments, or learning how to use your computer's interactive shell (although, you should learn about these concepts as well, later on). 
 
-To start the course, just follow the guide below. Either by using the Anaconda Cloud service, or by downloading Anaconda to your computer and running the course on your own computer. Good luck!
+To start the course, just follow the guide below. Either by using the Anaconda Cloud service, or by downloading Anaconda to your computer and running the course on your own computer. 
+
+__Important:__ If you use the Cloud service, please be adviced that it comes with a limit to CPU and data storage usage. This will lead to you reaching the limit at some point while doing the course. The solution when this happens is to either wait (the limit resets after a given timeframe), or to pay Anaconda to unlock your Cloud's CPU usage, or to install the Anaconda software locally on your computer. If this seems annoying, just start by downloading the course on your computer using the installation guide further down below on this page.
+
+Good luck!
 
 ## Get started – A step-by-step guide for the beginner
 
