@@ -67,7 +67,7 @@ We need to use code to unzip the course material (it won't work doing it in the 
 
 Now, copy this code:
 
-```
+```py
 import os
 import zipfile
 
