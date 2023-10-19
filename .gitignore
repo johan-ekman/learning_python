@@ -37,6 +37,9 @@ Thumbs.db
 # Others
 ########
 *__pycache__*
+hour_1*
+hour_2*
+hour_3*
 .ipynb_checkpoints
 *.lock
 *.toml
